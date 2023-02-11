@@ -7,7 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Setup Project
+
+
+- Step 1: Run `composer install`
+- Step 2: Create and import data base
+- Step 3: Config your file .env
+- Step 4: Run `php artisan key:generate`
+- Step 5: Run `php artisan ser` and request your website on port 8000
+
 ## About Laravel
+
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
