@@ -106,8 +106,7 @@
                                 class="ez-toc-section-end"></span></h2>
                         <p>&#8211; Các loại vở kẻ ngang do Thuần Việt cung cấp là một trong những loại vở học sinh có
                             đường kẻ ly ngang và chúng được phân chia thành những ô vuông lớn bởi những đường kẻ
-                            dọc, không có dòng kẻ dọc chia từng ô ly nhỏ. Đối tượng sử dụng các loại vở kẻ ngang Nhật
-                            Đông thường là các bạn học sinh cấp 2, cấp 3, sinh viên,&#8230;.</p>
+                            dọc, không có dòng kẻ dọc chia từng ô ly nhỏ. Đối tượng sử dụng các loại vở kẻ ngang Thuần Việt thường là các bạn học sinh cấp 2, cấp 3, sinh viên,&#8230;.</p>
                         <p>&gt;&gt; Tham khảo thêm &#8221; <strong>các loại vở kẻ ngang</strong>&#8221; do Thuần Việt
                             cung cấp <a href="https://tapvohocsinh.com/gia-cac-loai-vo-ke-ngang-moi-nhat.html"
                                         target="_blank" rel="noopener"><strong>TẠI ĐÂY</strong></a></p>
@@ -369,8 +368,7 @@
                                         cao cấp</em></span></p>
                         </div>
                         <h6><span class="ez-toc-section" id="Ly_do_nen_su_dung_vo_ke_ngang_Nhat_Dong"></span><span
-                                style="font-size: 18pt; color: #ff00ff;">Lý do nên sử dụng vở kẻ ngang Nhật
-                                Đông?</span><span class="ez-toc-section-end"></span></h6>
+                                style="font-size: 18pt; color: #ff00ff;">Lý do nên sử dụng vở kẻ ngang Thuần Việt ?</span><span class="ez-toc-section-end"></span></h6>
                         <p>Hiện tại đã có rất nhiều công ty sản xuất và cung cấp vở học sinh nói chung và vở kẻ ngang
                             nói riêng trên thị trường. Nhưng với độ uy tín cũng như niềm tin của khách hàng, DN Tập vở
                             Thuần Việt luôn tự hào là một trong những đơn vị luôn mang đến cho quý anh chị người dùng
@@ -420,23 +418,8 @@
                         </div>
                         <p>=&gt; Hy vọng qua bài chia sẻ này nếu như quý bạn có nhu cầu mua vở học sinh &#8211; vở kẻ
                             ngang các loại hay có thắc mắc gì hãy liên hệ cho Thuần Việt thông qua số phone: <span
-                                style="color: #ff0000;"><strong>0918 069 020 &#8211; (0274)3784 757 &#8211; 0937 317
-                                    355</strong></span> để được hỗ trợ nhanh nhất có thể nhé!</p>
-                        <blockquote>
-                            <p><strong>&gt;&gt; Có thể tham khảo thêm các bài liên quan:</strong></p>
-                        </blockquote>
-                        <ul>
-                            <li><a title="Kích thước vở 96 trang"
-                                   href="https://tapvohocsinh.com/tieu-chuan-kich-thuoc-vo-hoc-sinh-96-trang-vo-ke-ngang.html"
-                                   target="_blank" rel="noopener"><strong>Kích thước vở 96 trang</strong></a></li>
-                            <li><a title="Kích thước vở học sinh tại Thuần Việt"
-                                   href="https://tapvohocsinh.com/kich-thuoc-vo-hoc-sinh-bao-nhieu.html"
-                                   target="_blank" rel="noopener"><strong>Kích thước vở học sinh tại Nhật
-                                        Đông</strong></a></li>
-                            <li><strong><a
-                                        href="https://tapvohocsinh.com/xuong-in-vo-o-ly-theo-yeu-cau-gia-re-uy-tin-nhat-tphcm.html"
-                                        target="_blank" rel="noopener">In vở ô ly theo yêu cầu</a></strong></li>
-                        </ul>
+                                style="color: #ff0000;"><strong>0336.888.648 </strong></span> để được hỗ trợ nhanh nhất có thể nhé!</p>
+
                     </div>
                 </article>
             </div>
@@ -444,14 +427,13 @@
                 <h3 class="widget-title">Hỗ trợ tư vấn</h3>
                 <aside id="%1$s" class="widget %2$s">
                     <div class="textwidget">
-                        <p><span style="color: #f00;"><span style="font-size: 24px;"><strong>&#8211; 0918 069 020
-                                    </strong>(Mr Hiến)</span></span></p>
+                        <p><span style="color: #f00;"><span style="font-size: 24px;"><strong>&#8211; 0336.888.648
+                                    </strong>(Mr Hiệp)</span></span></p>
                         <p>&nbsp;</p>
                         <p><span style="color: #f00;"><span style="font-size: 24px;"><strong>&#8211;</strong>
-                                    <strong>0937 317 355</strong> (Ms Mai)</span></span></p>
+                                    <strong>0336.888.648</strong> (Ms Sương)</span></span></p>
                         <p>&nbsp;</p>
-                        <p><span style="color: #f00;"><span style="font-size: 24px;"><b>&#8211; </b><strong>(0274) 3784
-                                        757</strong> (Ms Mai)</span></span></p>
+                        <p><span style="color: #f00;"><span style="font-size: 24px;"><b>&#8211; </b><strong>0336.888.648</strong> (Ms Sương)</span></span></p>
                     </div>
                     <div class="clear"></div>
                 </aside>
@@ -459,7 +441,7 @@
                 <aside id="%1$s" class="widget %2$s">
                     <div class="textwidget">
                         <p style="text-align: center;"><a title="Chat zalo in tập vở học sinh"
-                                                          href="https://zalo.me/0937317355"><img class="alignnone size-full wp-image-940"
+                                                          href="https://zalo.me/0336888648"><img class="alignnone size-full wp-image-940"
                                                                                                  src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2044'%3E%3C/svg%3E"
                                                                                                  alt="" width="350" height="44"
                                                                                                  data-lazy-srcset="https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo.jpg 350w, https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo-300x38.jpg 300w"
@@ -471,7 +453,7 @@
                                         srcset="https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo.jpg 350w, https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo-300x38.jpg 300w"
                                         sizes="(max-width: 350px) 100vw, 350px" /></noscript>( </a><em>Ms Mai )</em></p>
                         <p style="text-align: center;"><a title="Chat zalo in tập vở học sinh"
-                                                          href="https://zalo.me/ 0964150075"><img class="alignnone size-full wp-image-940"
+                                                          href="https://zalo.me/0336888648"><img class="alignnone size-full wp-image-940"
                                                                                                   src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2044'%3E%3C/svg%3E"
                                                                                                   alt="" width="350" height="44"
                                                                                                   data-lazy-srcset="https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo.jpg 350w, https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo-300x38.jpg 300w"
@@ -639,9 +621,3 @@
 
 @endsection
 
-@section('script')
-@parent
-
-<script src="{{ asset('js/angularjs/categoryController.js') }}"></script>
-
-@endsection

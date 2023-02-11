@@ -78,9 +78,7 @@
                         <p>3. Bên công ty sản xuất tập vở học sinh THUẦN VIỆT chất liệu sản xuất đều đạt các tiêu chuẩn
                             khắt khe, có khả năng chống lóa, chống lem mực, độ trắng sáng đạt 90 &#8211; 92 ± 2 ISO theo
                             TCVN. Bề mặt giấy trơn láng, giúp chữ viết được đẹp hơn.</p>
-                        <p>&gt;&gt;&gt; Xem thêm dịch vụ <a
-                                href="https://tapvohocsinh.com/in-tap-vo-viet-hoc-sinh-theo-yeu-cau" target="_blank"
-                                rel="noopener"><strong>in vở theo yêu cầu</strong></a></p>
+
                         <div id="attachment_28" style="width: 610px" class="wp-caption aligncenter"><img
                                 aria-describedby="caption-attachment-28" class="wp-image-28"
                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E"
@@ -253,7 +251,7 @@
                 </aside>
                 <h3 class="widget-title">In tập vở viết theo yêu cầu</h3>
                 <aside id="%1$s" class="widget %2$s"><a
-                        href="https://tapvohocsinh.com/in-tap-vo-viet-hoc-sinh-theo-yeu-cau"><img width="300"
+                        href=""><img width="300"
                                                                                                   height="200"
                                                                                                   src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E"
                                                                                                   class="image wp-image-210  attachment-medium size-medium" alt="tap vo viet bn1"
@@ -267,7 +265,7 @@
                 </aside>
                 <h3 class="widget-title">Giấy Kraft gói hàng chất lượng cao</h3>
                 <aside id="%1$s" class="widget %2$s"><a
-                        href="https://tapvohocsinh.com/co-so-san-xuat-giay-kraft-xi-mang-goi-hang-gia-re-chat-luong"><img
+                        href=""><img
                             width="300" height="225"
                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20225'%3E%3C/svg%3E"
                             class="image wp-image-739  attachment-medium size-medium" alt="giay-kraft-bn"
@@ -303,88 +301,7 @@
                             style="max-width: 100%; height: auto;" /></noscript>
                     <div class="clear"></div>
                 </aside>
-                <h3 class="widget-title">May tags</h3>
-                <aside id="%1$s" class="widget %2$s">
-                    <div class="tagcloud"><a href="https://tapvohocsinh.com/tag/chat-luong"
-                                             class="tag-cloud-link tag-link-38 tag-link-position-1" style="font-size: 8pt;"
-                                             aria-label="chất lượng (1 item)">chất lượng</a>
-                        <a href="https://tapvohocsinh.com/tag/cong-ty-in"
-                           class="tag-cloud-link tag-link-15 tag-link-position-2" style="font-size: 20.30303030303pt;"
-                           aria-label="Cong ty in (55 items)">Cong ty in</a>
-                        <a href="https://tapvohocsinh.com/tag/dntn-nhat-dong"
-                           class="tag-cloud-link tag-link-13 tag-link-position-3" style="font-size: 20.89696969697pt;"
-                           aria-label="Dntn Nhat dong (65 items)">Dntn Nhat dong</a>
-                        <a href="https://tapvohocsinh.com/tag/giay-in-a4"
-                           class="tag-cloud-link tag-link-24 tag-link-position-4" style="font-size: 8pt;"
-                           aria-label="Giay in A4 (1 item)">Giay in A4</a>
-                        <a href="https://tapvohocsinh.com/tag/gia"
-                           class="tag-cloud-link tag-link-36 tag-link-position-5" style="font-size: 8pt;"
-                           aria-label="giá (1 item)">giá</a>
-                        <a href="https://tapvohocsinh.com/tag/giay"
-                           class="tag-cloud-link tag-link-39 tag-link-position-6" style="font-size: 8pt;"
-                           aria-label="giấy (1 item)">giấy</a>
-                        <a href="https://tapvohocsinh.com/tag/hoc-tap"
-                           class="tag-cloud-link tag-link-29 tag-link-position-7" style="font-size: 16.824242424242pt;"
-                           aria-label="Hoc tap (21 items)">Hoc tap</a>
-                        <a href="https://tapvohocsinh.com/tag/in" class="tag-cloud-link tag-link-35 tag-link-position-8"
-                           style="font-size: 8pt;" aria-label="in (1 item)">in</a>
-                        <a href="https://tapvohocsinh.com/tag/in-binh-duong"
-                           class="tag-cloud-link tag-link-16 tag-link-position-9" style="font-size: 14.278787878788pt;"
-                           aria-label="In binh duong (10 items)">In binh duong</a>
-                        <a href="https://tapvohocsinh.com/tag/in-nhan-vo"
-                           class="tag-cloud-link tag-link-22 tag-link-position-10" style="font-size: 8pt;"
-                           aria-label="In nhan vo (1 item)">In nhan vo</a>
-                        <a href="https://tapvohocsinh.com/tag/in-nhat-dong"
-                           class="tag-cloud-link tag-link-7 tag-link-position-11" style="font-size: 20.387878787879pt;"
-                           aria-label="In nhat dong (57 items)">In nhat dong</a>
-                        <a href="https://tapvohocsinh.com/tag/in-tap-hoc-sinh"
-                           class="tag-cloud-link tag-link-6 tag-link-position-12" style="font-size: 17.842424242424pt;"
-                           aria-label="In tap hoc sinh (28 items)">In tap hoc sinh</a>
-                        <a href="https://tapvohocsinh.com/tag/khach-hang"
-                           class="tag-cloud-link tag-link-37 tag-link-position-13" style="font-size: 8pt;"
-                           aria-label="khách hàng (1 item)">khách hàng</a>
-                        <a href="https://tapvohocsinh.com/tag/san-pham-khac"
-                           class="tag-cloud-link tag-link-28 tag-link-position-14" style="font-size: 20.89696969697pt;"
-                           aria-label="San pham khac (65 items)">San pham khac</a>
-                        <a href="https://tapvohocsinh.com/tag/san-xuat-giay"
-                           class="tag-cloud-link tag-link-23 tag-link-position-15"
-                           style="font-size: 14.872727272727pt;" aria-label="San xuat giay (12 items)">San xuat
-                            giay</a>
-                        <a href="https://tapvohocsinh.com/tag/san-xuat-tap-vo"
-                           class="tag-cloud-link tag-link-10 tag-link-position-16"
-                           style="font-size: 18.775757575758pt;" aria-label="San xuat tap vo (36 items)">San xuat tap
-                            vo</a>
-                        <a href="https://tapvohocsinh.com/tag/so-tay"
-                           class="tag-cloud-link tag-link-34 tag-link-position-17" style="font-size: 8pt;"
-                           aria-label="sổ tay (1 item)">sổ tay</a>
-                        <a href="https://tapvohocsinh.com/tag/tap-96-trang"
-                           class="tag-cloud-link tag-link-19 tag-link-position-18"
-                           style="font-size: 13.090909090909pt;" aria-label="Tap 96 trang (7 items)">Tap 96 trang</a>
-                        <a href="https://tapvohocsinh.com/tag/tap-200-trang"
-                           class="tag-cloud-link tag-link-17 tag-link-position-19"
-                           style="font-size: 13.090909090909pt;" aria-label="Tap 200 trang (7 items)">Tap 200 trang</a>
-                        <a href="https://tapvohocsinh.com/tag/tin-khac"
-                           class="tag-cloud-link tag-link-11 tag-link-position-20" style="font-size: 22pt;"
-                           aria-label="Tin khac (89 items)">Tin khac</a>
-                        <a href="https://tapvohocsinh.com/tag/trang"
-                           class="tag-cloud-link tag-link-33 tag-link-position-21" style="font-size: 8pt;"
-                           aria-label="trang (1 item)">trang</a>
-                        <a href="https://tapvohocsinh.com/tag/vai-lau"
-                           class="tag-cloud-link tag-link-27 tag-link-position-22"
-                           style="font-size: 14.872727272727pt;" aria-label="Vai lau (12 items)">Vai lau</a>
-                        <a href="https://tapvohocsinh.com/tag/van-phong-pham"
-                           class="tag-cloud-link tag-link-25 tag-link-position-23"
-                           style="font-size: 21.745454545455pt;" aria-label="Van phong pham (82 items)">Van phong
-                            pham</a>
-                        <a href="https://tapvohocsinh.com/tag/vo-hoc-sinh"
-                           class="tag-cloud-link tag-link-4 tag-link-position-24" style="font-size: 20.30303030303pt;"
-                           aria-label="Vo hoc sinh (55 items)">Vo hoc sinh</a>
-                        <a href="https://tapvohocsinh.com/tag/vo-sinh-vien"
-                           class="tag-cloud-link tag-link-5 tag-link-position-25" style="font-size: 15.466666666667pt;"
-                           aria-label="Vo sinh vien (14 items)">Vo sinh vien</a>
-                    </div>
-                    <div class="clear"></div>
-                </aside>
+
             </div>
             <div class="clear"></div>
         </div>
