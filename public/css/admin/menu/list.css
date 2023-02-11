@@ -1,0 +1,12 @@
+.dd-item {
+  position: relative;
+}
+.dd-item .dd-handle-action {
+  position: absolute;
+  right: 10px;
+  top: 2px;
+}
+.dd-item .dd-handle-action .fa-cogs, .dd-item .dd-handle-action .fa-times {
+  z-index: 999;
+  padding: 5px;
+}

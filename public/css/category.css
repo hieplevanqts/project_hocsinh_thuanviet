@@ -1,0 +1,78 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+body #header_top {
+  top: 0px; }
+
+body #header_bottom {
+  opacity: 1;
+  border-bottom: 1px solid #00a0e8; }
+
+main {
+  margin-top: 120px;
+  margin-bottom: 100px; }
+  main #breadcrumb nav .breadcrumb {
+    background-color: #fff;
+    padding-left: 0px;
+    padding-right: 0px; }
+    main #breadcrumb nav .breadcrumb .breadcrumb-item {
+      font-size: 12px;
+      font-style: italic;
+      opacity: 0.8; }
+      main #breadcrumb nav .breadcrumb .breadcrumb-item:nth-child(1)::before {
+        content: ''; }
+      main #breadcrumb nav .breadcrumb .breadcrumb-item::before {
+        font-family: FontAwesome;
+        content: '\f105';
+        font-size: 12px;
+        opacity: 0.8; }
+      main #breadcrumb nav .breadcrumb .breadcrumb-item a {
+        font-size: 12px;
+        color: #000;
+        text-decoration: none; }
+  main #best_seller {
+    margin-top: 0px; }
+    main #best_seller .large-title-category {
+      width: 100%;
+      text-align: center;
+      position: relative; }
+      main #best_seller .large-title-category h3 {
+        text-transform: uppercase;
+        font-weight: bold;
+        font-family: RobotoBold;
+        border-bottom: 1px solid #00a0e8;
+        display: inline-block; }
+      main #best_seller .large-title-category p {
+        font-size: 14px;
+        opacity: 0.8; }
+      main #best_seller .large-title-category button {
+        position: absolute;
+        right: 0px;
+        top: 5px;
+        border: 1px solid #00a0e8;
+        padding: 5px 10px;
+        font-size: 14px;
+        transition: 0.3s; }
+        main #best_seller .large-title-category button i {
+          padding-left: 10px;
+          opacity: 0.8;
+          font-size: 14px; }
+        main #best_seller .large-title-category button:focus {
+          outline: none; }
+        main #best_seller .large-title-category button:hover {
+          cursor: pointer;
+          color: #00a0e8; }
+
+@media only screen and (max-width: 480px) {
+  main {
+    margin-top: 45px; }
+  main #best_seller .large-title-category {
+    height: 70px; }
+  main #best_seller .large-title-category h3 {
+    position: absolute;
+    left: 0px;
+    top: 5px; }
+  main #best_seller .large-title-category p {
+    position: absolute;
+    top: 45px; } }

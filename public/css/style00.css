@@ -1,0 +1,18 @@
+body #header_mobile nav {
+  background-color: #fff; }
+  body #header_mobile nav ul {
+    height: auto !important;
+    padding-bottom: 10px; }
+  body #header_mobile nav .mb-action {
+    padding: 0px 10px; }
+    body #header_mobile nav .mb-action .mb-action-item {
+      padding: 5px 0px 0px 0px; }
+    body #header_mobile nav .mb-action a {
+      color: #333;
+      font-size: 14px;
+      font-weight: bold;
+      font-family: RobotoRegular;
+      display: inline; }
+      body #header_mobile nav .mb-action a i {
+        font-size: 18px;
+        margin-right: 5px; }

@@ -1,0 +1,32 @@
+.pagination__link {
+    text-align: center;
+}
+.pagination__link nav{
+    display: inline-block;
+}
+
+input.form-control, select.form-control{
+    border-top: 2px solid #2955c8 !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    font-size: 14px !important;
+    height: calc(1.8rem + 2px) !important;
+}
+textarea.form-control{
+    border-top: 2px solid #2955c8 !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    font-size: 14px !important;
+}
+input.form-control::placeholder{
+    font-size: 14px !important;
+}
+input.form-control:focus, select.form-control:focus{
+    outline: none !important;
+    border-color: red !important;
+    box-shadow: none !important;
+}
+.input-group-text{
+    padding: 0.255rem 0.75rem;
+    border-top: 2px solid #2955c8;
+}
