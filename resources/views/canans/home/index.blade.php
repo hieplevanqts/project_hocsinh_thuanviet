@@ -3,994 +3,420 @@
 
 @section('content')
     @include('canans.banner.index')
-    <section id="content" class="clearfix">
+    <section id="wrapOne">
         <div class="container">
-            <div class="box_post">
-                <div id="post_758124" class="post_static clearfix">
-                    <div class="post_static_content">
-                        <section class="section gioi-thieu-section" id="section_1135995146">
-                            <!-- .section-bg -->
-                            <div class="section-content relative">
-                                <div class="row row-large" id="row-1570152349">
-                                    <div class="col-md-6">
-                                        <div class="col-inner">
-                                            <div class="row row-small" id="row-34737319">
-                                                <div class="col-md-4">
-                                                    <div class="col-inner">
-                                                        <div
-                                                            class="icon-box featured-box icon-box-center text-center">
-                                                            <div class="icon-box-img" style="width: 75px">
-                                                                <div class="icon">
-                                                                    <div class="icon-inner"><a
-                                                                            href="/giup-viec-nha-gia-dinh/"><img
-                                                                                alt=""
-                                                                                src="{{asset('/')}}images/k2j8rFf.png" /></a><a
-                                                                            class="plain"
-                                                                            href="/giup-viec-nha-gia-dinh/"
-                                                                            target="_self"> </a></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="icon-box-text last-reset">
-                                                                <p style="text-align: center;"><a class="plain"
-                                                                                                  href="/giup-viec-nha-gia-dinh/"
-                                                                                                  target="_self">Gi&uacute;p việc gia
-                                                                        đ&igrave;nh</a></p>
-                                                            </div>
-                                                        </div>
-                                                        <a class="plain" href="/giup-viec-nha-gia-dinh/"
-                                                           target="_self">
-                                                            <!-- .icon-box -->
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-4">
-                                                    <div class="col-inner">
-                                                        <div
-                                                            class="icon-box featured-box icon-box-center text-center">
-                                                            <div class="icon-box-img" style="width: 75px">
-                                                                <div class="icon">
-                                                                    <div class="icon-inner"><a
-                                                                            href="/giup-viec-nha-theo-gio/"><img
-                                                                                alt=""
-                                                                                src="{{asset('/')}}images/VQGVwna.png" /></a><a
-                                                                            class="plain"
-                                                                            href="/giup-viec-nha-theo-gio/"
-                                                                            target="_self"> </a></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="icon-box-text last-reset">
-                                                                <p style="text-align: center;"><a class="plain"
-                                                                                                  href="/giup-viec-nha-theo-gio/"
-                                                                                                  target="_self">Gi&uacute;p việc theo giờ</a>
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                        <a class="plain" href="/giup-viec-nha-theo-gio/"
-                                                           target="_self">
-                                                            <!-- .icon-box -->
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-4">
-                                                    <div class="col-inner">
-                                                        <div
-                                                            class="icon-box featured-box icon-box-center text-center">
-                                                            <div class="icon-box-img" style="width: 75px">
-                                                                <div class="icon">
-                                                                    <div class="icon-inner"><a
-                                                                            href="/tap-vu-van-phong/"><img alt=""
-                                                                                                           src="{{asset('/')}}images/YspENIA.png" /></a><a
-                                                                            class="plain" href="/tap-vu-van-phong/"
-                                                                            target="_self"> </a></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="icon-box-text last-reset">
-                                                                <p style="text-align: center;"><a class="plain"
-                                                                                                  href="/tap-vu-van-phong/" target="_self">Tạp
-                                                                        vụ văn ph&ograve;ng</a></p>
-                                                            </div>
-                                                        </div>
-                                                        <a class="plain" href="/tap-vu-van-phong/" target="_self">
-                                                            <!-- .icon-box -->
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-4">
-                                                    <div class="col-inner">
-                                                        <div
-                                                            class="icon-box featured-box icon-box-center text-center">
-                                                            <div class="icon-box-img" style="width: 75px">
-                                                                <div class="icon">
-                                                                    <div class="icon-inner"><a
-                                                                            href="/giup-viec-cham-soc-nguoi-gia/"><img
-                                                                                alt=""
-                                                                                src="{{asset('/')}}images/Zc6We87.png" /></a><a
-                                                                            class="plain"
-                                                                            href="/giup-viec-cham-soc-nguoi-gia/"
-                                                                            target="_self"> </a></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="icon-box-text last-reset">
-                                                                <p style="text-align: center;"><a class="plain"
-                                                                                                  href="/giup-viec-cham-soc-nguoi-gia/"
-                                                                                                  target="_self">Chăm s&oacute;c người
-                                                                        gi&agrave;</a></p>
-                                                            </div>
-                                                        </div>
-                                                        <a class="plain" href="/giup-viec-cham-soc-nguoi-gia/"
-                                                           target="_self">
-                                                            <!-- .icon-box -->
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-4">
-                                                    <div class="col-inner">
-                                                        <div
-                                                            class="icon-box featured-box icon-box-center text-center">
-                                                            <div class="icon-box-img" style="width: 75px">
-                                                                <div class="icon">
-                                                                    <div class="icon-inner"><a
-                                                                            href="/giup-viec-cham-soc-em-be/"><img
-                                                                                alt=""
-                                                                                src="{{asset('/')}}images/dbvyTXJ.png" /></a><a
-                                                                            class="plain"
-                                                                            href="/giup-viec-cham-soc-em-be/"
-                                                                            target="_self"> </a></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="icon-box-text last-reset">
-                                                                <p style="text-align: center;"><a class="plain"
-                                                                                                  href="/giup-viec-cham-soc-em-be/"
-                                                                                                  target="_self">Gi&uacute;p việc chăm em
-                                                                        b&eacute;</a></p>
-                                                            </div>
-                                                        </div>
-                                                        <a class="plain" href="/giup-viec-cham-soc-em-be/"
-                                                           target="_self">
-                                                            <!-- .icon-box -->
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-4">
-                                                    <div class="col-inner">
-                                                        <div
-                                                            class="icon-box featured-box icon-box-center text-center">
-                                                            <div class="icon-box-img" style="width: 75px">
-                                                                <div class="icon">
-                                                                    <div class="icon-inner"><a
-                                                                            href="/giup-viec-pho-thong/"><img alt=""
-                                                                                                              src="{{asset('/')}}images/VjKbKIJ.jpg" /></a><a
-                                                                            class="plain"
-                                                                            href="/giup-viec-pho-thong/"
-                                                                            target="_self"> </a></div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="icon-box-text last-reset">
-                                                                <p style="text-align: center;"><a class="plain"
-                                                                                                  href="/giup-viec-pho-thong/"
-                                                                                                  target="_self">Gi&uacute;p việc phổ
-                                                                        th&ocirc;ng</a></p>
-                                                            </div>
-                                                        </div>
-                                                        <a class="plain" href="/giup-viec-pho-thong/"
-                                                           target="_self">
-                                                            <!-- .icon-box -->
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                                <style scope="scope" type="text/css"></style>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="ve-chung-toi">
-                                            <div class="col-inner">
-                                                <h2 style="text-align: center;"><span
-                                                        style="font-size:14px;"><strong>
-                                                                <font face="tahoma, geneva, sans-serif">DỊCH VỤ
-                                                                    GI&Uacute;P VIỆC THUẦN VIỆT - UY T&Iacute;N SỐ 1
-                                                                    TP HCM</font>
-                                                            </strong></span></h2>
-                                                <p style="text-align: justify;">T&igrave;m người gi&uacute;p việc
-                                                    l&agrave; dịch vụ m&agrave; THUẦN VIỆT &nbsp;cung cấp cho c&aacute;c
-                                                    gia đ&igrave;nh c&oacute; nhiều việc, cần sự hỗ trợ của người
-                                                    gi&uacute;p việc. Điều m&agrave; đ&atilde; v&ocirc; h&igrave;nh
-                                                    chung trở th&agrave;nh một nỗi lo của c&aacute;c b&agrave;,
-                                                    c&aacute;c mẹ thời nay. T&igrave;m được một người gi&uacute;p
-                                                    việc đ&atilde; kh&oacute; nhưng t&igrave;m được một người ưng
-                                                    &yacute; lại c&agrave;ng kh&oacute; hơn gấp vạn lần.
-                                                    Ch&uacute;ng t&ocirc;i &ndash; dịch vụ t&igrave;m gi&uacute;p
-                                                    việc Hải&nbsp;Anh&nbsp;&nbsp;sẽ gi&uacute;p bạn giải quyết vấn
-                                                    đề đ&oacute;!</p>
-                                                <p style="text-align: justify;">Những lo toan trong cuộc sống
-                                                    h&agrave;ng ng&agrave;y của bạn sẽ được ch&uacute;ng t&ocirc;i
-                                                    san sẻ phần n&agrave;o. Bạn h&atilde;y gọi ngay cho ch&uacute;ng
-                                                    t&ocirc;i khi c&oacute; nhu cầu.&nbsp;Ch&uacute;ng t&ocirc;i
-                                                    lu&ocirc;n ở đ&acirc;y để phục vụ tốt nhất cho bạn.</p>
-                                                <a class="button primary lowercase" href="/gioi-thieu/"
-                                                   style="border-radius:99px;" target="_self"><span>Xem giới thiệu
-                                                            chi tiết</span> </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <style scope="scope" type="text/css"></style>
-                                </div>
-                            </div>
-                            <!-- .section-content -->
-                            <style scope="scope" type="text/css">
-                                #section_1135995146 {
-                                    padding-top: 64px;
-                                    padding-bottom: 64px;
-                                }
-                            </style>
-                        </section>
-                    </div>
-                </div>
+            <div class="wrap_one">
+                <h1>In tập học sinh chất lượng cao theo yêu cầu</h1>
+                <img width="430" height="330"
+                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20430%20330'%3E%3C/svg%3E"
+                     alt=""
+                     data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/06/in-tap-theo-yeu-cau.jpg"><noscript><img
+                        width="430" height="330"
+                        src="https://tapvohocsinh.com/wp-content/uploads/2018/06/in-tap-theo-yeu-cau.jpg"
+                        alt=""></noscript>
+                <h2><span style="color: #0000ff;">In tập học sinh chất lượng cao theo yêu cầu</span></h2>
+                <p>THUẦN VIỆT là một DNTN đóng tại TP HCM nhưng có văn phòng đại diện ở
+                    các tỉnh phía Nam. Hiện doanh nghiệp chúng tôi đang kinh doanh các lĩnh vực in ấn và sản
+                    xuất thiết bị văn phòng phẩm.</p>
+                <p><span style="color: #ff0000;"><strong>THUẦN VIỆT hiện có một số dịch vụ nổi bật như
+                            sau:</strong></span></p>
+                <p>&#8211; Dịch vụ sản xuất hay in tập học sinh theo yêu cầu chất lượng cao, giá cả phải chăng</p>
+                <p>&#8211; Dịch vụ gia công tập vở viết học sinh, sinh viên cho các đơn vị bạn</p>
+                <p>&#8211; Dịch vụ in offset như: in hóa đơn xuất nhập kho, phiếu thu chi, phiếu giữ xe,&#8230;</p>
+                <p>&#8211; Cung cấp các loại văn phòng phẩm thông dụng</p>
             </div>
-            <div class="md_home_article">
-                <div class="post_static">
-                    <section class="section keu-goi-hanh-dong" id="section_648524357">
-                        <!-- .section-bg -->
-                        <div class="section-content relative">
-                            <div class="row">
-                                <div class="col-md-8">
-                                    <div class="col-inner">
-                                        <h3><span style="font-size: 120%;">Bạn cần tư vấn dịch vụ gi&uacute;p
-                                                    việc&nbsp;của ch&uacute;ng t&ocirc;i?</span></h3>
-                                        <p>C&aacute;ch nhanh nhất, vui l&ograve;ng li&ecirc;n hệ trực tiếp với tư
-                                            vấn vi&ecirc;n qua một trong c&aacute;c k&ecirc;nh sau:</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 keu-goi">
-                                    <div class="col-inner">
-                                        <div class="row">
-                                            <div class="col-md-4">
-                                                <div class="col-inner">
-                                                    <div class="icon-box featured-box icon-box-center text-center">
-                                                        <div class="icon-box-img" style="width: 60px">
-                                                            <div class="icon">
-                                                                <div class="icon-inner"><a class="plain"
-                                                                                           href="https://zalo.me/0988944063"
-                                                                                           target="_self"><img alt=""
-                                                                                                               class="attachment-medium size-medium"
-                                                                                                               height="60" src="{{asset('/')}}images/zalo.png"
-                                                                                                               width="74" /> </a></div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="icon-box-text last-reset">
-                                                            <p style="text-align: center;"><a class="plain"
-                                                                                              href="https://zalo.me/0988944063"
-                                                                                              target="_self">Chat Zalo</a></p>
-                                                        </div>
-                                                    </div>
-                                                    <a class="plain" href="https://zalo.me/0988944063"
-                                                       target="_self">
-                                                        <!-- .icon-box -->
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="col-inner">
-                                                    <div class="icon-box featured-box icon-box-center text-center">
-                                                        <div class="icon-box-img" style="width: 60px">
-                                                            <div class="icon">
-                                                                <div class="icon-inner"><a class="plain"
-                                                                                           href="http://m.me/giupviecgiadinhtaihanoicom/"
-                                                                                           target="_self"><img alt=""
-                                                                                                               class="attachment-medium size-medium"
-                                                                                                               height="60" src="{{asset('/')}}images/fb-mss.png"
-                                                                                                               width="74" /> </a></div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="icon-box-text last-reset">
-                                                            <p style="text-align: center;"><a class="plain"
-                                                                                              href="http://m.me/giupviecgiadinhtaihanoicom/"
-                                                                                              target="_self">Chat Messenger</a></p>
-                                                        </div>
-                                                    </div>
-                                                    <a class="plain" href="http://m.me/designer379" target="_self">
-                                                        <!-- .icon-box -->
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                                <div class="col-inner">
-                                                    <div class="icon-box featured-box icon-box-center text-center">
-                                                        <div class="icon-box-img" style="width: 60px">
-                                                            <div class="icon">
-                                                                <div class="icon-inner"><a class="plain"
-                                                                                           href="tel:0988.944.063" target="_self"><img
-                                                                            alt=""
-                                                                            class="attachment-medium size-medium"
-                                                                            height="60" src="{{asset('/')}}images/call.png"
-                                                                            width="74" /> </a></div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="icon-box-text last-reset">
-                                                            <p style="text-align: center;"><a class="plain"
-                                                                                              href="tel:0988.944.063"
-                                                                                              target="_self">0988.944.063</a></p>
-                                                        </div>
-                                                    </div>
-                                                    <a class="plain" href="tel:0988.944.063" target="_self">
-                                                        <!-- .icon-box -->
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <style scope="scope" type="text/css"></style>
-                                        </div>
-                                    </div>
-                                </div>
-                                <style scope="scope" type="text/css"></style>
-                            </div>
-                            <!-- .section-content -->
-                            <style scope="scope" type="text/css">
-                                #section_648524357 {
-                                    padding-top: 20px;
-                                    padding-bottom: 20px;
-                                    background-color: rgb(39, 164, 73);
-                                }
-                            </style>
-                        </div>
-                    </section>
+            <div class="clear"></div>
+        </div>
+    </section>
+    <div class="clear"></div>
+    <section id="wrapTwo">
+        <div class="container">
+            <div class="services-wrap">
+                <div class="three_column four_column ">
+                    <img width="370" height="250" alt=""
+                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20370%20250'%3E%3C/svg%3E"
+                         data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/06/in-hoa-don.jpg"><noscript><img
+                            width="370" height="250" alt=""
+                            src="https://tapvohocsinh.com/wp-content/uploads/2018/06/in-hoa-don.jpg" /></noscript>
+                    <a href="https://tapvohocsinh.com/in-cac-loai-hoa-don-phieu-chi-thu">
+                        <h3>In các loại hóa đơn, phiếu chi thu</h3>
+                    </a>
+                    <p>In các loại hóa đơn, phiếu chi thu và các mẫu hồ sơ sơ lưu hành nội bộ theo yêu cầu Tại các công
+                        ty hay doanh nghiệp lớn nhỏ thường có sử dụng tới một số loại hóa đơn...</p>
+                    <a class="alink" href="https://tapvohocsinh.com/in-cac-loai-hoa-don-phieu-chi-thu">Xem tiếp>></a>
                 </div>
-            </div>
-            <div class="box_post">
-                <div id="post_758126" class="post_static clearfix">
-                    <div class="post_static_content">
-                        <section class="section tieu-chi-section" id="section_1626214783">
-                            <!-- .section-bg -->
-                            <div class="section-content relative">
-                                <div class="row row-small row-col" id="row-949317241">
-                                    <div class="col-md-9 tieu-chi">
-                                        <div class="col-inner">
-                                            <div class="container section-title-container">
-                                                <h2 class="section-title section-title-center"><strong><span
-                                                            style="font-size:26px;"><span
-                                                                class="section-title-main">TI&Ecirc;U CH&Iacute;
-                                                                    HOẠT ĐỘNG</span></span></strong></h2>
-                                            </div>
-                                            <span style="font-size:26px;">
-                                                    <strong>
-                                                        <!-- .section-title -->
-                                                    </strong>
-                                                </span>
-                                            <p style="text-align: center;"><span
-                                                    style="font-size:18px;">Ch&uacute;ng t&ocirc;i hoạt động với
-                                                        những ti&ecirc;u ch&iacute; rất cụ thể để giữ chữ t&iacute;n với
-                                                        kh&aacute;c h&agrave;ng.</span></p>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 tieu-chi">
-                                        <div class="col-inner">
-                                            <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_574401479">
-                                                <div class="img-inner dark"><img alt="" src="{{asset('/')}}images/nAxVu8a.jpg" />
-                                                </div>
-                                                <style scope="scope" type="text/css">
-                                                    #image_574401479 {
-                                                        width: 100%;
-                                                    }
-                                                </style>
-                                            </div>
-                                            <div class="icon-box featured-box icon-box-center text-center">
-                                                <div class="icon-box-img" style="width: 90px">
-                                                    <div class="icon">
-                                                        <div class="icon-inner"><img alt=""
-                                                                                     src="{{asset('/')}}images/s9uYhSt.png" /></div>
-                                                    </div>
-                                                </div>
-                                                <div class="icon-box-text last-reset">
-                                                    <h4 style="text-align: center;">Chuy&ecirc;n nghiệp &ndash; Tận
-                                                        t&acirc;m</h4>
-                                                    <p style="text-align: center;"><span style="font-size: 95%;">Đội
-                                                                ngũ tư vấn vi&ecirc;n & chăm s&oacute;c kh&aacute;ch
-                                                                h&agrave;ng kinh nghiệm, chuy&ecirc;n nghiệp, tận
-                                                                t&acirc;m,&nbsp; cam kết bảo h&agrave;nh dịch vụ khi
-                                                                Kh&aacute;ch h&agrave;ng chưa h&agrave;i
-                                                                l&ograve;ng</span></p>
-                                                </div>
-                                            </div>
-                                            <!-- .icon-box -->
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 tieu-chi">
-                                        <div class="col-inner">
-                                            <div class="img has-hover x md-x lg-x y md-y lg-y"
-                                                 id="image_1110718474">
-                                                <div class="img-inner dark"><img alt="" src="{{asset('/')}}images/iyJguGL.jpg" />
-                                                </div>
-                                                <style scope="scope" type="text/css">
-                                                    #image_1110718474 {
-                                                        width: 100%;
-                                                    }
-                                                </style>
-                                            </div>
-                                            <div class="icon-box featured-box icon-box-center text-center">
-                                                <div class="icon-box-img" style="width: 90px">
-                                                    <div class="icon">
-                                                        <div class="icon-inner"><img alt=""
-                                                                                     src="{{asset('/')}}images/nsfweBy.png" /></div>
-                                                    </div>
-                                                </div>
-                                                <div class="icon-box-text last-reset">
-                                                    <h4 style="text-align: center;">Người gi&uacute;p việc
-                                                        nh&agrave; ti&ecirc;u chuẩn</h4>
-                                                    <p style="text-align: center;"><span
-                                                            style="font-size: 95%;">Người gi&uacute;p việc
-                                                                nh&agrave; ti&ecirc;u chuẩn, đ&aacute;ng tin cậy,
-                                                                c&oacute; đầy đủ hồ sơ. C&ocirc;ng ty THUẦN VIỆT &nbsp;chịu
-                                                                tr&aacute;ch nhiệm tuyển chọn, đ&agrave;o tạo v&agrave;
-                                                                quản l&yacute;.</span></p>
-                                                </div>
-                                            </div>
-                                            <!-- .icon-box -->
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 tieu-chi">
-                                        <div class="col-inner">
-                                            <div class="img has-hover x md-x lg-x y md-y lg-y"
-                                                 id="image_1536888401">
-                                                <div class="img-inner dark"><img alt="" src="{{asset('/')}}images/dcPQHcE.jpg" />
-                                                </div>
-                                                <style scope="scope" type="text/css">
-                                                    #image_1536888401 {
-                                                        width: 100%;
-                                                    }
-                                                </style>
-                                            </div>
-                                            <div class="icon-box featured-box icon-box-center text-center">
-                                                <div class="icon-box-img" style="width: 90px">
-                                                    <div class="icon">
-                                                        <div class="icon-inner"><img alt=""
-                                                                                     src="{{asset('/')}}images/EKB6wUA.png" /></div>
-                                                    </div>
-                                                </div>
-                                                <div class="icon-box-text last-reset">
-                                                    <h4 style="text-align: center;">Chi ph&iacute; hợp l&yacute;
-                                                    </h4>
-                                                    <p style="text-align: center;"><span
-                                                            style="font-size: 95%;">Gi&aacute; dịch vụ được
-                                                                nh&acirc;n vi&ecirc;n của đơn vị tư vấn cho kh&aacute;ch
-                                                                h&agrave;ng ngay từ khi tiếp nhận th&ocirc;ng tin. Cam
-                                                                kết gi&aacute; cạnh tranh nhất.</span></p>
-                                                </div>
-                                            </div>
-                                            <!-- .icon-box -->
-                                        </div>
-                                    </div>
-                                    <style scope="scope" type="text/css"></style>
-                                </div>
-                            </div>
-                            <!-- .section-content -->
-                            <style scope="scope" type="text/css">
-                                #section_1626214783 {
-                                    padding-top: 45px;
-                                    padding-bottom: 45px;
-                                    background-color: rgb(242, 244, 245);
-                                }
-                            </style>
-                        </section>
-                    </div>
+                <div class="three_column four_column ">
+                    <img width="370" height="250" alt=""
+                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20370%20250'%3E%3C/svg%3E"
+                         data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/06/tap-viet-so-2.jpg"><noscript><img
+                            width="370" height="250" alt=""
+                            src="https://tapvohocsinh.com/wp-content/uploads/2018/06/tap-viet-so-2.jpg" /></noscript>
+                    <a href="https://tapvohocsinh.com/tap-vo-viet-hoc-sinh-70-trang">
+                        <h3>Tập vở viết học sinh 70 trang</h3>
+                    </a>
+                    <p>Tập vở viết học sinh 70 trang do DNTN THUẦN VIỆT sản xuất Ngày nay tập vở được sử dụng nhiều trong
+                        mỗi gia đình, văn phòng, công sở đặc biệt là được sử dụng số lượng lớn trong các...</p>
+                    <a class="alink" href="https://tapvohocsinh.com/tap-vo-viet-hoc-sinh-70-trang">Xem tiếp>></a>
                 </div>
-            </div>
-            <div class="box_post">
-                <div id="post_758128" class="post_static clearfix">
-                    <div class="post_static_content">
-                        <div class="hestia-features-content">
-                            <div class="row">
-                                <div class="col-md-4 feature-box">
-                                    <div class="gap-element clearfix"
-                                         style="display:block;height:auto;padding-top: 45px;">&nbsp;</div>
-                                    <div class="hestia-info">
-                                        <div class="icon-info" style="color:#1e73be"><img alt=""
-                                                                                          src="{{asset('/')}}images/IZhpOei.jpg" /></div>
-                                        <h4 class="info-title">SẠCH SẼ</h4>
-                                        <p>Người gi&uacute;p việc nh&agrave; tại THUẦN  lu&ocirc;n sạch sẽ, gọn
-                                            g&agrave;ng, thật th&agrave;. Đạt ti&ecirc;u chuẩn, đ&aacute;ng tin cậy
-                                            v&agrave; c&oacute; đầy đủ hồ sơ, th&ocirc;ng tin c&aacute; nh&acirc;n.
-                                        </p>
-                                    </div>
-                                    <div class="gap-element clearfix"
-                                         style="display:block; height:auto; padding-top:30px">&nbsp;</div>
-                                    <div class="hestia-info">
-                                        <div class="icon-info" style="color:#1e73be"><img alt=""
-                                                                                          src="{{asset('/')}}images/ORFKsgC.jpg" /></div>
-                                        <h4 class="info-title">BẢO HIỂM</h4>
-                                        <p>Bảo hiểm hỏng v&agrave; đổ vỡ: Theo Quy tắc Bảo hiểm của Bảo Việt trong
-                                            trường hợp nh&acirc;n vi&ecirc;n gi&uacute;p việc l&agrave;m hư hỏng, vỡ
-                                            đồ của Kh&aacute;ch h&agrave;ng.</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 feature-box">
-                                    <div class="hestia-image"><img alt="" src="{{asset('/')}}images/SunE0ov.png" /></div>
-                                </div>
-                                <div class="col-md-4 feature-box">
-                                    <div class="gap-element clearfix"
-                                         style="display:block;height:auto;padding-top: 45px;">&nbsp;</div>
-                                    <div class="hestia-info">
-                                        <div class="icon-info" style="color:#1e73be"><img alt=""
-                                                                                          src="{{asset('/')}}images/QTS14tU.jpg" /></div>
-                                        <h4 class="info-title">LỢI &Iacute;CH</h4>
-                                        <p>Gi&uacute;p bạn tiết kiệm tối đa thời gian cho bản th&acirc;n v&agrave;
-                                            gia đ&igrave;nh. Gi&uacute;p bạn tiết kiệm chi ph&iacute; dọn dẹp vệ
-                                            sinh. Lu&ocirc;n an to&agrave;n, uy t&iacute;n, tr&aacute;ch nhiệm.</p>
-                                    </div>
-                                    <div class="gap-element clearfix"
-                                         style="display:block; height:auto; padding-top:30px">&nbsp;</div>
-                                    <div class="hestia-info">
-                                        <div class="icon-info" style="color:#1e73be"><img alt=""
-                                                                                          src="{{asset('/')}}images/DCPgFLw.jpg" /></div>
-                                        <h4 class="info-title">CHUY&Ecirc;N NGHIỆP, UY T&Iacute;N</h4>
-                                        <p>Nh&acirc;n vi&ecirc;n gi&uacute;p việc được tuyển chọn v&agrave;
-                                            đ&agrave;o tạo kỹ lưỡng theo chuẩn Singapore, c&oacute; nh&acirc;n
-                                            th&acirc;n tốt được x&aacute;c nhận bởi ch&iacute;nh quyền.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /.row -->
-                        </div>
-                    </div>
+                <div class="three_column four_column ">
+                    <img width="370" height="250" alt=""
+                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20370%20250'%3E%3C/svg%3E"
+                         data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/06/tap-viet-so-1.jpg"><noscript><img
+                            width="370" height="250" alt=""
+                            src="https://tapvohocsinh.com/wp-content/uploads/2018/06/tap-viet-so-1.jpg" /></noscript>
+                    <a href="https://tapvohocsinh.com/tap-vo-viet-hoc-sinh-80-trang">
+                        <h3>Tập vở viết học sinh 80 trang</h3>
+                    </a>
+                    <p>Tập vở viết học sinh 80 trang, in bìa vở theo yêu cầu của khách hàng. In đẹp với chất lượng giấy
+                        in tốt. Doanh nghiệp chúng tôi sản xuất các loại tập vở viết thông dụng nhất như loại...</p>
+                    <a class="alink" href="https://tapvohocsinh.com/tap-vo-viet-hoc-sinh-80-trang">Xem tiếp>></a>
                 </div>
-            </div>
-            <div class="box_news_hot_index">
-                <div class="box_product_home_categtory">
-                    <div class="title_bar_center bar_web_bgr text-uppercase">
-                        <h2><a href="/dich-vu-giup-viec/">Dịch Vụ Giúp Việc</a></h2>
-                    </div>
-                    <div class="box_news_grid_index">
-                        <div class="row">
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12">
-                                <div class="news_grid">
-                                    <a href="/giup-viec-pho-thong-173/" class="news_grid_photo">
-                                        <div class="box_img_news">
-                                            <img src="http://giupviechaianh.com/files/news/5870/04-07-2018/55_IDosB5lC.jpg"
-                                                 alt="Giúp Việc Phổ Thông" class="img-responsive">
-                                        </div>
-                                    </a>
-                                    <h4><a href="/giup-viec-pho-thong-173/" title="Giúp Việc Phổ Thông">Giúp Việc
-                                            Phổ Thông</a></h4>
-                                    <p></p>
-                                    <div class="clearfix news_grid_date_view">
-                                        <i class="pull-left">(04/07/2018)</i>
-                                        <a href="/giup-viec-pho-thong-173/" class="pull-right"><img
-                                                src="/assets/{{asset('/')}}images/arrow_news.png" alt=""></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12">
-                                <div class="news_grid">
-                                    <a href="/giup-viec-trong-tre/" class="news_grid_photo">
-                                        <div class="box_img_news">
-                                            <img src="http://giupviechaianh.com/files/news/5870/04-07-2018/58_5AevM42Z.jpg"
-                                                 alt="Giúp Việc Trông Trẻ" class="img-responsive">
-                                        </div>
-                                    </a>
-                                    <h4><a href="/giup-viec-trong-tre/" title="Giúp Việc Trông Trẻ">Giúp Việc Trông
-                                            Trẻ</a></h4>
-                                    <p></p>
-                                    <div class="clearfix news_grid_date_view">
-                                        <i class="pull-left">(04/07/2018)</i>
-                                        <a href="/giup-viec-trong-tre/" class="pull-right"><img
-                                                src="http://giupviechaianh.com/assets/{{asset('/')}}images/arrow_news.png"
-                                                alt=""></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12">
-                                <div class="news_grid">
-                                    <a href="/giup-viec-cham-nguoi-gia/" class="news_grid_photo">
-                                        <div class="box_img_news">
-                                            <img src="http://giupviechaianh.com/files/news/5870/04-07-2018/congtygiupviecnhagiare_aeK9B4Qf.jpg"
-                                                 alt="Giúp Việc Chăm Người Già" class="img-responsive">
-                                        </div>
-                                    </a>
-                                    <h4><a href="/giup-viec-cham-nguoi-gia/" title="Giúp Việc Chăm Người Già">Giúp
-                                            Việc Chăm Người Già</a></h4>
-                                    <p></p>
-                                    <div class="clearfix news_grid_date_view">
-                                        <i class="pull-left">(04/07/2018)</i>
-                                        <a href="/giup-viec-cham-nguoi-gia/" class="pull-right"><img
-                                                src="http://giupviechaianh.com/assets/{{asset('/')}}images/arrow_news.png"
-                                                alt=""></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12">
-                                <div class="news_grid">
-                                    <a href="/giup-viec-nha-an-o-lai-552/" class="news_grid_photo">
-                                        <div class="box_img_news">
-                                            <img src="http://giupviechaianh.com/files/news/5870/04-07-2018/11_1Zt5zYtZ.jpg"
-                                                 alt="Giúp Việc Nhà Ăn Ở Lại" class="img-responsive">
-                                        </div>
-                                    </a>
-                                    <h4><a href="/giup-viec-nha-an-o-lai-552/" title="Giúp Việc Nhà Ăn Ở Lại">Giúp
-                                            Việc Nhà Ăn Ở Lại</a></h4>
-                                    <p></p>
-                                    <div class="clearfix news_grid_date_view">
-                                        <i class="pull-left">(04/07/2018)</i>
-                                        <a href="/giup-viec-nha-an-o-lai-552/" class="pull-right"><img
-                                                src="http://giupviechaianh.com/assets/{{asset('/')}}images/arrow_news.png"
-                                                alt=""></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12">
-                                <div class="news_grid">
-                                    <a href="/giup-viec-nha-theo-gio-235/" class="news_grid_photo">
-                                        <div class="box_img_news">
-                                            <img src="http://giupviechaianh.com/files/news/5870/19-03-2020/021_atPMPSN2.jpg"
-                                                 alt="Giúp việc nhà theo giờ" class="img-responsive">
-                                        </div>
-                                    </a>
-                                    <h4><a href="/giup-viec-nha-theo-gio-235/" title="Giúp việc nhà theo giờ">Giúp
-                                            việc nhà theo giờ</a></h4>
-                                    <p></p>
-                                    <div class="clearfix news_grid_date_view">
-                                        <i class="pull-left">(19/03/2020)</i>
-                                        <a href="/giup-viec-nha-theo-gio-235/" class="pull-right"><img
-                                                src="http://giupviechaianh.com/assets/{{asset('/')}}images/arrow_news.png"
-                                                alt=""></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12">
-                                <div class="news_grid">
-                                    <a href="/tap-vu-van-phong/" class="news_grid_photo">
-                                        <div class="box_img_news">
-                                            <img src="http://giupviechaianh.com/files/news/5870/20-03-2020/giupviecnha1024x683_MTZG14G8.jpg"
-                                                 alt="Tạp vụ văn phòng" class="img-responsive">
-                                        </div>
-                                    </a>
-                                    <h4><a href="/tap-vu-van-phong/" title="Tạp vụ văn phòng">Tạp vụ văn phòng</a>
-                                    </h4>
-                                    <p></p>
-                                    <div class="clearfix news_grid_date_view">
-                                        <i class="pull-left">(20/03/2020)</i>
-                                        <a href="/tap-vu-van-phong/" class="pull-right"><img
-                                                src="http://giupviechaianh.com/assets/{{asset('/')}}images/arrow_news.png"
-                                                alt=""></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12">
-                                <div class="news_grid">
-                                    <a href="/giup-viec-nha-gia-dinh-324/" class="news_grid_photo">
-                                        <div class="box_img_news">
-                                            <img src="http://giupviechaianh.com/files/news/5870/20-03-2020/00_cTiZevfC.jpg"
-                                                 alt="Giúp việc nhà gia đình" class="img-responsive">
-                                        </div>
-                                    </a>
-                                    <h4><a href="/giup-viec-nha-gia-dinh-324/" title="Giúp việc nhà gia đình">Giúp
-                                            việc nhà gia đình</a></h4>
-                                    <p></p>
-                                    <div class="clearfix news_grid_date_view">
-                                        <i class="pull-left">(20/03/2020)</i>
-                                        <a href="/giup-viec-nha-gia-dinh-324/" class="pull-right"><img
-                                                src="http://giupviechaianh.com/assets/{{asset('/')}}images/arrow_news.png"
-                                                alt=""></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12">
-                                <div class="news_grid">
-                                    <a href="/cam-ket-cua-chung-toi/" class="news_grid_photo">
-                                        <div class="box_img_news">
-                                            <img src="http://giupviechaianh.com/files/news/5870/19-03-2020/dichvugiupviecnhagiupviecnhahcm_qqceJQPJ.jpg"
-                                                 alt="Cam kết của chúng tôi" class="img-responsive">
-                                        </div>
-                                    </a>
-                                    <h4><a href="/cam-ket-cua-chung-toi/" title="Cam kết của chúng tôi">Cam kết của
-                                            chúng tôi</a></h4>
-                                    <p></p>
-                                    <div class="clearfix news_grid_date_view">
-                                        <i class="pull-left">(19/03/2020)</i>
-                                        <a href="/cam-ket-cua-chung-toi/" class="pull-right"><img
-                                                src="http://giupviechaianh.com/assets/{{asset('/')}}images/arrow_news.png"
-                                                alt=""></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="home_news_menu_view_more clearfix">
-                        <a href="/dich-vu-giup-viec/"
-                           class="pull-right btn btn-primary bar_web_bgr btn-view-more-newsmenu">Xem thêm <i
-                                class="fa fa-angle-double-right" aria-hidden="true"></i></a>
-                    </div>
+                <div class="three_column four_column last_column">
+                    <img width="370" height="250" alt=""
+                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20370%20250'%3E%3C/svg%3E"
+                         data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/06/tap-viet-so-3.jpg"><noscript><img
+                            width="370" height="250" alt=""
+                            src="https://tapvohocsinh.com/wp-content/uploads/2018/06/tap-viet-so-3.jpg" /></noscript>
+                    <a href="https://tapvohocsinh.com/tap-vo-viet-hoc-sinh-96-trang">
+                        <h3>Tập vở viết học sinh 96 trang</h3>
+                    </a>
+                    <p>Sản xuất tập vở viết học sinh 96 trang theo yêu cầu của khách hàng Tập học sinh loại 96 trang là
+                        loại tập rất thông dụng với số lượng trang in khá dày, loại tập này được rất nhiều...</p>
+                    <a class="alink" href="https://tapvohocsinh.com/tap-vo-viet-hoc-sinh-96-trang">Xem tiếp>></a>
                 </div>
-            </div>
-            <div class="box_product_hot_index clearfix">
-                <div class="box_product_home_categtory">
-                    <div class="title_bar_center bar_web_bgr text-uppercase">
-                        <h2 class="text-uppercase"><a href="/doi-ngu-nhan-vien/">Đội ngũ nhân viên</a></h2>
-                        <a href="/doi-ngu-nhan-vien/" class="view_category pull-right">Xem thêm</a>
-                    </div>
-                    <div class="box_list_product">
-                        <div class="row">
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12 col-product">
-                                <div class="box_product">
-                                    <a href="/chi-nguyen-thi-thu-que-nam-dinh/">
-                                        <div class="box_product_img"><img
-                                                src="{{asset('images/z245137665180180462e58921b9690e71caff09f7ccedb_tbR6GIx2.jpeg')}}"
-                                                alt="Chị Nguyễn Thị Thu - quê Nam Định "></div>
-                                    </a>
-                                    <div class="box_product_name"><a href="/chi-nguyen-thi-thu-que-nam-dinh/">Chị
-                                            Nguyễn Thị Thu - quê Nam Định </a></div>
-                                    <div class="box_product_summary">
-                                        <p><strong>Qu&ecirc; Qu&aacute;n:</strong>&nbsp;<font color="#ff0000">Nam
-                                                Định&nbsp;</font><br />
-                                            <strong>Năm Sinh:</strong> <span style="color:#FF0000;">1965</span>
-                                        </p>
-                                        <p>&nbsp;</p>
-                                    </div>
-                                    <div class="btn_view_product_detail text-center">
-                                        <!-- <a
-                                            href="/chi-nguyen-thi-thu-que-nam-dinh/"
-                                            class="btn btn-blue bar_web_bgr">Xem hồ sơ</a> -->
-                                        <i class="fa fa-check" aria-hidden="true"></i> Đã nhận việc
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12 col-product">
-                                <div class="box_product">
-                                    <a href="/chi-le-thi-hoa-que-phu-tho/">
-                                        <div class="box_product_img"><img
-                                                src="{{asset('images/z24513860261817484f006c0aa427d8d7626f7a082de6e_V2xWHojw.jpeg')}}"
-                                                alt="Chị Lê Thị Hoa - quê Phú Thọ "></div>
-                                    </a>
-                                    <div class="box_product_name"><a href="/chi-le-thi-hoa-que-phu-tho/">Chị Lê Thị
-                                            Hoa - quê Phú Thọ </a></div>
-                                    <div class="box_product_summary">
-                                        <p><strong>Qu&ecirc; Qu&aacute;n:</strong> <span
-                                                style="color:#FF0000;">Ph&uacute; Thọ&nbsp;</span><br />
-                                            <strong>Năm Sinh:</strong> <span style="color:#FF0000;">1977</span>
-                                        </p>
-                                    </div>
-                                    <div class="btn_view_product_detail text-center">
-                                        <!-- <a
-                                            href="/chi-nguyen-thi-thu-que-nam-dinh/"
-                                            class="btn btn-blue bar_web_bgr">Xem hồ sơ</a> -->
-                                        <i class="fa fa-check" aria-hidden="true"></i> Đã nhận việc
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12 col-product">
-                                <div class="box_product">
-                                    <a href="/chi-nguyen-thi-thu-que-thai-nguyen/">
-                                        <div class="box_product_img"><img
-                                                src="{{asset('images/z245138653061809aeb983d4946ffb6059d0985b05e85c_Hjc26oIs.jpeg')}}"
-                                                alt="Chị Nguyễn Thị Thu - quê Thái nguyên."></div>
-                                    </a>
-                                    <div class="box_product_name"><a href="/chi-nguyen-thi-thu-que-thai-nguyen/">Chị
-                                            Nguyễn Thị Thu - quê Thái nguyên.</a></div>
-                                    <div class="box_product_summary">
-                                        <p><strong>Qu&ecirc; Qu&aacute;n:</strong>&nbsp;<font color="#ff0000">
-                                                Th&aacute;i Nguy&ecirc;n</font><br />
-                                            <strong>Năm Sinh:</strong> <span style="color:#FF0000;">1983</span>
-                                        </p>
-                                    </div>
-                                    <div class="btn_view_product_detail text-center">
-                                        <!-- <a
-                                            href="/chi-nguyen-thi-thu-que-nam-dinh/"
-                                            class="btn btn-blue bar_web_bgr">Xem hồ sơ</a> -->
-                                        <i class="fa fa-check" aria-hidden="true"></i> Đã nhận việc
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12 col-product">
-                                <div class="box_product">
-                                    <a href="/le-thi-thu-que-thai-binh/">
-                                        <div class="box_product_img"><img
-                                                src="{{asset('images/z24513894923640a04791f8c57a9da4c9870de2c6eccdb_sT3plpul.jpeg')}}"
-                                                alt="Lê Thị Thu -  quê Thái Bình"></div>
-                                    </a>
-                                    <div class="box_product_name"><a href="/le-thi-thu-que-thai-binh/">Lê Thị Thu -
-                                            quê Thái Bình</a></div>
-                                    <div class="box_product_summary">
-                                        <p><strong>Qu&ecirc; Qu&aacute;n:</strong>&nbsp;<font color="#ff0000">
-                                                Th&aacute;i B&igrave;nh</font><br />
-                                            <strong>Năm Sinh:</strong> <span style="color:#FF0000;">1976</span>
-                                        </p>
-                                    </div>
-                                    <div class="btn_view_product_detail text-center">
-                                        <!-- <a
-                                            href="/chi-nguyen-thi-thu-que-nam-dinh/"
-                                            class="btn btn-blue bar_web_bgr">Xem hồ sơ</a> -->
-                                        <i class="fa fa-check" aria-hidden="true"></i> Đã nhận việc
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12 col-product">
-                                <div class="box_product">
-                                    <a href="/nguyen-thi-hang-que-ba-vi-ha-noi/">
-                                        <div class="box_product_img"><img
-                                                src="{{asset('images/z2451392781655ed464b8e8b717dd732d8b66730bfbb42_aZuJUHyd.jpeg')}}"
-                                                alt="Nguyễn Thị Hằng - quê Ba Vì TP HCM."></div>
-                                    </a>
-                                    <div class="box_product_name"><a
-                                            href="/nguyen-thi-hang-que-ba-vi-ha-noi/">Nguyễn Thị Hằng - quê Ba Vì Hà
-                                            Nội.</a></div>
-                                    <div class="box_product_summary">
-                                        <p><strong>Qu&ecirc; Qu&aacute;n:</strong>&nbsp;<font color="#ff0000">Ba
-                                                V&igrave; H&agrave; Nội</font><br />
-                                            <strong>Năm Sinh:</strong> <span style="color:#FF0000;">1978</span>
-                                        </p>
-                                    </div>
-                                    <div class="btn_view_product_detail text-center">
-                                        <!-- <a
-                                            href="/chi-nguyen-thi-thu-que-nam-dinh/"
-                                            class="btn btn-blue bar_web_bgr">Xem hồ sơ</a> -->
-                                        <i class="fa fa-check" aria-hidden="true"></i> Đã nhận việc
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12 col-product">
-                                <div class="box_product">
-                                    <a href="/nguyen-thi-nu-que-ba-vi-ha-noi/">
-                                        <div class="box_product_img"><img
-                                                src="{{asset('images/z245139239058199b360958f3c67a6be4ae9711d61c4c1_qNMHr4Sd.jpeg')}}"
-                                                alt="Nguyễn Thị Nữ - quê Ba Vì Hà Nội"></div>
-                                    </a>
-                                    <div class="box_product_name"><a href="/nguyen-thi-nu-que-ba-vi-ha-noi/">Nguyễn
-                                            Thị Nữ - quê Ba Vì Hà Nội</a></div>
-                                    <div class="box_product_summary">
-                                        <p><strong>Qu&ecirc; Qu&aacute;n:</strong>&nbsp;<font color="#ff0000">Ba
-                                                V&igrave; H&agrave; Nội</font><br />
-                                            <strong>Năm Sinh:</strong> <span style="color:#FF0000;">1978</span>
-                                        </p>
-                                    </div>
-                                    <div class="btn_view_product_detail text-center">
-                                        <!-- <a
-                                            href="/chi-nguyen-thi-thu-que-nam-dinh/"
-                                            class="btn btn-blue bar_web_bgr">Xem hồ sơ</a> -->
-                                        <i class="fa fa-check" aria-hidden="true"></i> Đã nhận việc
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12 col-product">
-                                <div class="box_product">
-                                    <a href="/le-thi-luyen-que-ba-vi-ha-noi/">
-                                        <div class="box_product_img"><img
-                                                src="{{asset('images/z24513919863472badd8fcc082fb3a33771e65d120e49c_SlqF9wb1.jpeg')}}"
-                                                alt="Lê Thị Luyến - quê Ba Vì Hà Nội"></div>
-                                    </a>
-                                    <div class="box_product_name"><a href="/le-thi-luyen-que-ba-vi-ha-noi/">Lê Thị
-                                            Luyến - quê Ba Vì Hà Nội</a></div>
-                                    <div class="box_product_summary">
-                                        <p><strong>Qu&ecirc; Qu&aacute;n:</strong>&nbsp;<font color="#ff0000">Ba
-                                                V&igrave; H&agrave; Nội</font><br />
-                                            <strong>Năm Sinh:</strong> <span style="color:#FF0000;">1965</span>
-                                        </p>
-                                    </div>
-                                    <div class="btn_view_product_detail text-center">
-                                        <!-- <a
-                                            href="/chi-nguyen-thi-thu-que-nam-dinh/"
-                                            class="btn btn-blue bar_web_bgr">Xem hồ sơ</a> -->
-                                        <i class="fa fa-check" aria-hidden="true"></i> Đã nhận việc
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12 col-product">
-                                <div class="box_product">
-                                    <a href="/nguyen-thi-hien-que-thai-binh/">
-                                        <div class="box_product_img"><img
-                                                src="{{asset('images/z24513911102394771fefb2adfcf2d18c573e5939249fd_L88GzRlR.jpeg')}}"
-                                                alt="Nguyễn Thị Hiền - quê Thái Bình"></div>
-                                    </a>
-                                    <div class="box_product_name"><a href="/nguyen-thi-hien-que-thai-binh/">Nguyễn
-                                            Thị Hiền - quê Thái Bình</a></div>
-                                    <div class="box_product_summary">
-                                        <p><strong>Qu&ecirc; Qu&aacute;n:</strong>&nbsp;<font color="#ff0000">
-                                                Th&aacute;i B&igrave;nh</font><br />
-                                            <strong>Năm Sinh:</strong> <span style="color:#FF0000;">1969</span>
-                                        </p>
-                                    </div>
-                                    <div class="btn_view_product_detail text-center">
-                                        <!-- <a
-                                            href="/chi-nguyen-thi-thu-que-nam-dinh/"
-                                            class="btn btn-blue bar_web_bgr">Xem hồ sơ</a> -->
-                                        <i class="fa fa-check" aria-hidden="true"></i> Đã nhận việc
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12 col-product">
-                                <div class="box_product">
-                                    <a href="/tran-thi-len-que-nam-dinh/">
-                                        <div class="box_product_img"><img
-                                                src="{{asset('images/z24513907589598737dd58370afe695a823beebd9f0dff_U9A3r6JK.jpeg')}}"
-                                                alt="Trần Thị Len - quê Nam Định"></div>
-                                    </a>
-                                    <div class="box_product_name"><a href="/tran-thi-len-que-nam-dinh/">Trần Thị Len
-                                            - quê Nam Định</a></div>
-                                    <div class="box_product_summary">
-                                        <p><strong>Qu&ecirc; Qu&aacute;n:</strong>&nbsp;<font color="#ff0000">Nam
-                                                Định</font><br />
-                                            <strong>Năm Sinh:</strong> <span style="color:#FF0000;">1976</span>
-                                        </p>
-                                    </div>
-                                    <div class="btn_view_product_detail text-center">
-                                        <!-- <a
-                                            href="/chi-nguyen-thi-thu-que-nam-dinh/"
-                                            class="btn btn-blue bar_web_bgr">Xem hồ sơ</a> -->
-                                        <i class="fa fa-check" aria-hidden="true"></i> Đã nhận việc
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12 col-product">
-                                <div class="box_product">
-                                    <a href="/le-thi-thom-que-phu-tho/">
-                                        <div class="box_product_img"><img
-                                                src="{{asset('images/z2490094852915a5b6980ebb09cee464c2c4b3120d4830_1Aq6HEVn.jpeg')}}"
-                                                alt="Lê Thị Thơm - quê Phú Thọ"></div>
-                                    </a>
-                                    <div class="box_product_name"><a href="/le-thi-thom-que-phu-tho/">Lê Thị Thơm -
-                                            quê Phú Thọ</a></div>
-                                    <div class="box_product_summary">
-                                        <p><strong>Qu&ecirc; Qu&aacute;n:</strong>&nbsp;<font color="#ff0000">
-                                                Ph&uacute; Thọ</font><br />
-                                            <strong>Năm Sinh:</strong> <span style="color:#FF0000;">1976</span>
-                                        </p>
-                                    </div>
-                                    <div class="btn_view_product_detail text-center">
-                                        <!-- <a
-                                            href="/chi-nguyen-thi-thu-que-nam-dinh/"
-                                            class="btn btn-blue bar_web_bgr">Xem hồ sơ</a> -->
-                                        <i class="fa fa-check" aria-hidden="true"></i> Đã nhận việc
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12 col-product">
-                                <div class="box_product">
-                                    <a href="/nguyen-thi-hoai-que-hai-duong/">
-                                        <div class="box_product_img"><img
-                                                src="{{asset('images/z2490095866831171cc570b70d1af36df315f39fae06a8_XUA5eXEG.jpeg')}}"
-                                                alt="Nguyễn Thị Hoài - quê Hải Dương"></div>
-                                    </a>
-                                    <div class="box_product_name"><a href="/nguyen-thi-hoai-que-hai-duong/">Nguyễn
-                                            Thị Hoài - quê Hải Dương</a></div>
-                                    <div class="box_product_summary">
-                                        <p><strong>Qu&ecirc; Qu&aacute;n:</strong>&nbsp;<font color="#ff0000">Hải
-                                                Dương</font><br />
-                                            <strong>Năm Sinh:</strong> <span style="color:#FF0000;">1985</span>
-                                        </p>
-                                    </div>
-                                    <div class="btn_view_product_detail text-center">
-                                        <!-- <a
-                                            href="/chi-nguyen-thi-thu-que-nam-dinh/"
-                                            class="btn btn-blue bar_web_bgr">Xem hồ sơ</a> -->
-                                        <i class="fa fa-check" aria-hidden="true"></i> Đã nhận việc
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6 col-ss-12 col-product">
-                                <div class="box_product">
-                                    <a href="/ha-thi-hoa-que-tuyen-quang/">
-                                        <div class="box_product_img"><img
-                                                src="{{asset('images/z24900965814877aa5cebe4316df2c413bbad231279438_Qb990H9N.jpeg')}}"
-                                                alt="Hà Thị Hoa - quê Tuyên Quang"></div>
-                                    </a>
-                                    <div class="box_product_name"><a href="/ha-thi-hoa-que-tuyen-quang/">Hà Thị Hoa
-                                            - quê Tuyên Quang</a></div>
-                                    <div class="box_product_summary">
-                                        <p><strong>Qu&ecirc; Qu&aacute;n:</strong>&nbsp;<font color="#ff0000">
-                                                Tuy&ecirc;n Quang</font><br />
-                                            <strong>Năm Sinh:</strong> <span style="color:#FF0000;">1969</span>
-                                        </p>
-                                    </div>
-                                    <div class="btn_view_product_detail text-center">
-                                        <!-- <a
-                                            href="/chi-nguyen-thi-thu-que-nam-dinh/"
-                                            class="btn btn-blue bar_web_bgr">Xem hồ sơ</a> -->
-                                        <i class="fa fa-check" aria-hidden="true"></i> Đã nhận việc
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="btn_view_more text-center"><a href="/doi-ngu-nhan-vien/" class="btn btn-success">Xem
-                            thêm</a></div>
-                </div>
+                <div class="clear"></div>
             </div>
         </div>
     </section>
+    <div class="content-area">
+        <div class="middle-align content_sidebar">
+            <div class="site-main" id="sitemain">
+                <article id="post-401" class="post-401 page type-page status-publish hentry">
+                    <header class="entry-header">
+                        <h1 class="entry-title">Mẫu tập vở học sinh do THUẦN VIỆT sản xuất</h1>
+                    </header>
+                    <div class="entry-content">
+                        <h2>Tham khảo một số mẫu tập vở học sinh do THUẦN VIỆT sản xuất</h2>
+                        <p>Khi nói tới một công ty bán sản phẩm nào đó thì bạn có thể xem các mẫu sản phẩm của công ty
+                            đó. Thí dụ muốn mua bút bi bạn cần xem mẫu bút bi. Muốn mua thước kẻ bạn cũng cần xem mẫu
+                            thước kẻ. Muốn mua cặp sách bạn cũng cần phải xem mẫu cặp sách,&#8230;Bất cứ sản phẩm của
+                            công ty hay doanh nghiệp nào đều phải có mẫu sản phẩm cho bạn xem. Cũng như thế, tập học
+                            sinh THUẦN VIỆT cũng không ngoại lệ. Chúng tôi xin cung cấp một số mẫu tập vở học sinh, sinh
+                            viên do chính doanh nghiệp THUẦN VIỆT chúng tôi sản xuất ra.</p>
+                        <h3>Một số mẫu tập học sinh, sinh viên do THUẦN VIỆT sản xuất:</h3>
+                        <div id="attachment_403" style="width: 610px" class="wp-caption alignnone"><img
+                                aria-describedby="caption-attachment-403" class="wp-image-403 size-full"
+                                src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20360'%3E%3C/svg%3E"
+                                alt="mau tap hoc sinh 1" width="600" height="360"
+                                data-lazy-srcset="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-hoc-sinh-1.jpg 600w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-hoc-sinh-1-300x180.jpg 300w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-hoc-sinh-1-240x145.jpg 240w"
+                                data-lazy-sizes="(max-width: 600px) 100vw, 600px"
+                                data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-hoc-sinh-1.jpg" /><noscript><img
+                                    aria-describedby="caption-attachment-403" class="wp-image-403 size-full"
+                                    src="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-hoc-sinh-1.jpg"
+                                    alt="mau tap hoc sinh 1" width="600" height="360"
+                                    srcset="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-hoc-sinh-1.jpg 600w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-hoc-sinh-1-300x180.jpg 300w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-hoc-sinh-1-240x145.jpg 240w"
+                                    sizes="(max-width: 600px) 100vw, 600px" /></noscript>
+                            <p id="caption-attachment-403" class="wp-caption-text"><span
+                                    style="color: #0000ff;"><em>Ảnh: Tập học sinh in theo yêu cầu của trường
+                                        THPT</em></span></p>
+                        </div>
+                        <p>&nbsp;</p>
+                        <p>Mẫu trên là của trường chuyên THPT Lương Thế Vinh &#8211; Biên hòa, Đồng nai và trường tiểu
+                            học Lê Đình Chinh quận 11, Tp HCM.</p>
+                        <div id="attachment_404" style="width: 610px" class="wp-caption alignnone"><img
+                                aria-describedby="caption-attachment-404" class="wp-image-404 size-full"
+                                src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20360'%3E%3C/svg%3E"
+                                alt="mau tap vo 2" width="600" height="360"
+                                data-lazy-srcset="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-vo-2.jpg 600w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-vo-2-300x180.jpg 300w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-vo-2-240x145.jpg 240w"
+                                data-lazy-sizes="(max-width: 600px) 100vw, 600px"
+                                data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-vo-2.jpg" /><noscript><img
+                                    aria-describedby="caption-attachment-404" class="wp-image-404 size-full"
+                                    src="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-vo-2.jpg"
+                                    alt="mau tap vo 2" width="600" height="360"
+                                    srcset="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-vo-2.jpg 600w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-vo-2-300x180.jpg 300w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-vo-2-240x145.jpg 240w"
+                                    sizes="(max-width: 600px) 100vw, 600px" /></noscript>
+                            <p id="caption-attachment-404" class="wp-caption-text"><span
+                                    style="color: #0000ff;"><em>Ảnh: Tập học sinh do THUẦN VIỆT in theo yêu cầu của các
+                                        trường</em></span></p>
+                        </div>
+                        <p>&nbsp;</p>
+                        <p>Trên là mẫu tập của trường THCS Lê Quý Đôn và trường THPT Việt nhật &#8211; Tp HCM</p>
+                        <div id="attachment_406" style="width: 610px" class="wp-caption alignnone"><img
+                                aria-describedby="caption-attachment-406" class="wp-image-406 size-full"
+                                src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20360'%3E%3C/svg%3E"
+                                alt="mau tap viet so 3" width="600" height="360"
+                                data-lazy-srcset="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-viet-3.jpg 600w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-viet-3-300x180.jpg 300w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-viet-3-240x145.jpg 240w"
+                                data-lazy-sizes="(max-width: 600px) 100vw, 600px"
+                                data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-viet-3.jpg" /><noscript><img
+                                    aria-describedby="caption-attachment-406" class="wp-image-406 size-full"
+                                    src="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-viet-3.jpg"
+                                    alt="mau tap viet so 3" width="600" height="360"
+                                    srcset="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-viet-3.jpg 600w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-viet-3-300x180.jpg 300w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-viet-3-240x145.jpg 240w"
+                                    sizes="(max-width: 600px) 100vw, 600px" /></noscript>
+                            <p id="caption-attachment-406" class="wp-caption-text"><span
+                                    style="color: #0000ff;"><em>Ảnh: Tập vở viết do THUẦN VIỆT gia công</em></span></p>
+                        </div>
+                        <p>&nbsp;</p>
+                        <p>Trên là mẫu tập do THUẦN VIỆT sản xuất theo yêu cầu củ công ty TNHH Giáo dục và công ty khác
+                            tại khu công nghiệp</p>
+                        <div id="attachment_410" style="width: 610px" class="wp-caption alignnone"><img
+                                aria-describedby="caption-attachment-410" class="wp-image-410 size-full"
+                                src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20360'%3E%3C/svg%3E"
+                                alt="mau tap 5" width="600" height="360"
+                                data-lazy-srcset="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-5.jpg 600w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-5-300x180.jpg 300w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-5-240x145.jpg 240w"
+                                data-lazy-sizes="(max-width: 600px) 100vw, 600px"
+                                data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-5.jpg" /><noscript><img
+                                    aria-describedby="caption-attachment-410" class="wp-image-410 size-full"
+                                    src="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-5.jpg"
+                                    alt="mau tap 5" width="600" height="360"
+                                    srcset="https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-5.jpg 600w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-5-300x180.jpg 300w, https://tapvohocsinh.com/wp-content/uploads/2018/05/mau-tap-5-240x145.jpg 240w"
+                                    sizes="(max-width: 600px) 100vw, 600px" /></noscript>
+                            <p id="caption-attachment-410" class="wp-caption-text"><span
+                                    style="color: #0000ff;"><em>Ảnh: Tập học sinh do THUẦN VIỆT in theo yêu cầu của các
+                                        trường</em></span></p>
+                        </div>
+                        <p>&nbsp;</p>
+                        <p>Nhận in các loại vở tập tô, tập vẽ cho bé(không in các ấn phẩm vi phạm bản quyền tác giả)</p>
+                        <div id="attachment_413" style="width: 610px" class="wp-caption alignnone"><img
+                                aria-describedby="caption-attachment-413" class="wp-image-413 size-full"
+                                src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E"
+                                alt="in vo tap to ve" width="600" height="400"
+                                data-lazy-srcset="https://tapvohocsinh.com/wp-content/uploads/2018/05/in-tap-to.jpg 600w, https://tapvohocsinh.com/wp-content/uploads/2018/05/in-tap-to-300x200.jpg 300w"
+                                data-lazy-sizes="(max-width: 600px) 100vw, 600px"
+                                data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/05/in-tap-to.jpg" /><noscript><img
+                                    aria-describedby="caption-attachment-413" class="wp-image-413 size-full"
+                                    src="https://tapvohocsinh.com/wp-content/uploads/2018/05/in-tap-to.jpg"
+                                    alt="in vo tap to ve" width="600" height="400"
+                                    srcset="https://tapvohocsinh.com/wp-content/uploads/2018/05/in-tap-to.jpg 600w, https://tapvohocsinh.com/wp-content/uploads/2018/05/in-tap-to-300x200.jpg 300w"
+                                    sizes="(max-width: 600px) 100vw, 600px" /></noscript>
+                            <p id="caption-attachment-413" class="wp-caption-text"><span
+                                    style="color: #0000ff;"><em>Ảnh: THUẦN VIỆT in vở tập tô, tập vẽ theo yêu
+                                        cầu</em></span></p>
+                        </div>
+                        <p>&nbsp;</p>
+                        <p>Để cho thuận tiện giúp các cá nhận, doanh nghiệp cho tặng, làm từ thiện hay quảng cáo. Chúng
+                            tôi có thể đóng gói 10 cuốn thành một gói giúp quý khách.</p>
+                        <div id="attachment_411" style="width: 610px" class="wp-caption alignnone"><img
+                                aria-describedby="caption-attachment-411" class="wp-image-411 size-full"
+                                src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20360'%3E%3C/svg%3E"
+                                alt="goi-tap-hoc-sinh" width="600" height="360"
+                                data-lazy-srcset="https://tapvohocsinh.com/wp-content/uploads/2018/05/goi-tap-hoc-sinh.jpg 600w, https://tapvohocsinh.com/wp-content/uploads/2018/05/goi-tap-hoc-sinh-300x180.jpg 300w, https://tapvohocsinh.com/wp-content/uploads/2018/05/goi-tap-hoc-sinh-240x145.jpg 240w"
+                                data-lazy-sizes="(max-width: 600px) 100vw, 600px"
+                                data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/05/goi-tap-hoc-sinh.jpg" /><noscript><img
+                                    aria-describedby="caption-attachment-411" class="wp-image-411 size-full"
+                                    src="https://tapvohocsinh.com/wp-content/uploads/2018/05/goi-tap-hoc-sinh.jpg"
+                                    alt="goi-tap-hoc-sinh" width="600" height="360"
+                                    srcset="https://tapvohocsinh.com/wp-content/uploads/2018/05/goi-tap-hoc-sinh.jpg 600w, https://tapvohocsinh.com/wp-content/uploads/2018/05/goi-tap-hoc-sinh-300x180.jpg 300w, https://tapvohocsinh.com/wp-content/uploads/2018/05/goi-tap-hoc-sinh-240x145.jpg 240w"
+                                    sizes="(max-width: 600px) 100vw, 600px" /></noscript>
+                            <p id="caption-attachment-411" class="wp-caption-text"><em><span
+                                        style="color: #0000ff;">Ảnh: Đóng gói tập 10 cuốn do THUẦN VIỆT sản
+                                        xuất</span></em></p>
+                        </div>
+                        <p>&nbsp;</p>
+                        <p>Còn rất nhiều mẫu <strong><a href="https://tapvohocsinh.com/">tập học sinh</a></strong> khác
+                            mà chúng tôi không thể cập nhật hết trên trang này được. Vì việc cập nhật quá nhiều ảnh sẽ
+                            làm cho trang web tải chậm mong quý khách thông cảm. Muốn xem thêm các mẫu khác quý khách
+                            vui lòng liên hệ với PKD để được tham khảo thêm.</p>
+                        <p>Mọi chi tiết xin quý khách hàng liên hệ: <strong>SĐT: <span style="color: #ff0000;">0918 069
+                                    020</span></strong>(Mr Hiến) – <span style="color: #ff0000;"><strong>0937 317
+                                    355</strong></span>(Ms Mai) &#8211; <strong>Hotline:</strong> <span
+                                style="color: #ff0000;"><strong>(0274)3784 757</strong></span></p>
+                    </div>
+                </article>
+            </div>
+            <div id="sidebar">
+                <h3 class="widget-title">Hỗ trợ tư vấn</h3>
+                <aside id="%1$s" class="widget %2$s">
+                    <div class="textwidget">
+                        <p><span style="color: #f00;"><span style="font-size: 24px;"><strong>&#8211; 0336888648
+                                    </strong>(Mr Hiến)</span></span></p>
+                        <p>&nbsp;</p>
+                        <p><span style="color: #f00;"><span style="font-size: 24px;"><strong>&#8211;</strong>
+                                    <strong>0336888648</strong> (Ms Mai)</span></span></p>
+                        <p>&nbsp;</p>
+                        <p><span style="color: #f00;"><span style="font-size: 24px;"><b>&#8211; </b><strong>0336888648</strong> (Ms Mai)</span></span></p>
+                    </div>
+                    <div class="clear"></div>
+                </aside>
+                <h3 class="widget-title">Kết nối với chúng tôi</h3>
+                <aside id="%1$s" class="widget %2$s">
+                    <div class="textwidget">
+                        <p style="text-align: center;"><a title="Chat zalo in tập vở học sinh"
+                                                          href="https://zalo.me/0336888648"><img class="alignnone size-full wp-image-940"
+                                                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2044'%3E%3C/svg%3E"
+                                                                                                 alt="" width="350" height="44"
+                                                                                                 data-lazy-srcset="https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo.jpg 350w, https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo-300x38.jpg 300w"
+                                                                                                 data-lazy-sizes="(max-width: 350px) 100vw, 350px"
+                                                                                                 data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo.jpg" /><noscript><img
+                                        class="alignnone size-full wp-image-940"
+                                        src="https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo.jpg"
+                                        alt="" width="350" height="44"
+                                        srcset="https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo.jpg 350w, https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo-300x38.jpg 300w"
+                                        sizes="(max-width: 350px) 100vw, 350px" /></noscript>( </a><em>Ms Mai )</em></p>
+                        <p style="text-align: center;"><a title="Chat zalo in tập vở học sinh"
+                                                          href="https://zalo.me/ 0336888648"><img class="alignnone size-full wp-image-940"
+                                                                                                  src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2044'%3E%3C/svg%3E"
+                                                                                                  alt="" width="350" height="44"
+                                                                                                  data-lazy-srcset="https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo.jpg 350w, https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo-300x38.jpg 300w"
+                                                                                                  data-lazy-sizes="(max-width: 350px) 100vw, 350px"
+                                                                                                  data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo.jpg" /><noscript><img
+                                        class="alignnone size-full wp-image-940"
+                                        src="https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo.jpg"
+                                        alt="" width="350" height="44"
+                                        srcset="https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo.jpg 350w, https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo-300x38.jpg 300w"
+                                        sizes="(max-width: 350px) 100vw, 350px" /></noscript>( </a><em>Mr Hiến )</em>
+                        </p>
+                    </div>
+                    <div class="clear"></div>
+                </aside>
+                <h3 class="widget-title">Lưu ý khách hàng</h3>
+                <aside id="%1$s" class="widget %2$s">
+                    <div class="textwidget">
+                        <p><span style="font-size: 18px;"><span style="color: #ff0000;">KHÔNG BÁN LẺ TẬP HỌC
+                                    SINH</span></span></p>
+                        <p><span style="color: #0000ff;"><span style="font-size: 14px;">DNTN THUẦN VIỆT chúng tôi là đơn
+                                    vị sản xuất, chỉ in ấn tập giá sỉ số lượng từ 1000 cuốn trở lên, không bán lẻ.<br />
+                                    Quý khách mua tập vở lẻ xin liên hệ với shop khác ạ. Cảm ơn quý khách khách đã đọc
+                                    lưu ý này!</span></span></p>
+                    </div>
+                    <div class="clear"></div>
+                </aside>
+                <h3 class="widget-title">In tập vở viết theo yêu cầu</h3>
+                <aside id="%1$s" class="widget %2$s"><a
+                        href="https://tapvohocsinh.com/in-tap-vo-viet-hoc-sinh-theo-yeu-cau"><img width="300"
+                                                                                                  height="200"
+                                                                                                  src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E"
+                                                                                                  class="image wp-image-210  attachment-medium size-medium" alt="tap vo viet bn1"
+                                                                                                  style="max-width: 100%; height: auto;"
+                                                                                                  data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/04/tap-vo-viet-bn1-300x200.jpg" /><noscript><img
+                                width="300" height="200"
+                                src="https://tapvohocsinh.com/wp-content/uploads/2018/04/tap-vo-viet-bn1-300x200.jpg"
+                                class="image wp-image-210  attachment-medium size-medium" alt="tap vo viet bn1"
+                                style="max-width: 100%; height: auto;" /></noscript></a>
+                    <div class="clear"></div>
+                </aside>
+                <h3 class="widget-title">Giấy Kraft gói hàng chất lượng cao</h3>
+                <aside id="%1$s" class="widget %2$s"><a
+                        href="https://tapvohocsinh.com/co-so-san-xuat-giay-kraft-xi-mang-goi-hang-gia-re-chat-luong"><img
+                            width="300" height="225"
+                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20225'%3E%3C/svg%3E"
+                            class="image wp-image-739  attachment-medium size-medium" alt="giay-kraft-bn"
+                            style="max-width: 100%; height: auto;"
+                            data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2019/01/giay-kraft-bn-300x225.jpg" /><noscript><img
+                                width="300" height="225"
+                                src="https://tapvohocsinh.com/wp-content/uploads/2019/01/giay-kraft-bn-300x225.jpg"
+                                class="image wp-image-739  attachment-medium size-medium" alt="giay-kraft-bn"
+                                style="max-width: 100%; height: auto;" /></noscript></a>
+                    <div class="clear"></div>
+                </aside>
+                <h3 class="widget-title">Cung cấp giấy in A4 chất lượng cao</h3>
+                <aside id="%1$s" class="widget %2$s"><img width="300" height="217"
+                                                          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20217'%3E%3C/svg%3E"
+                                                          class="image wp-image-454  attachment-full size-full" alt="giay-in-a4"
+                                                          style="max-width: 100%; height: auto;"
+                                                          data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/06/giay-in-a4-1.jpg" /><noscript><img
+                            width="300" height="217"
+                            src="https://tapvohocsinh.com/wp-content/uploads/2018/06/giay-in-a4-1.jpg"
+                            class="image wp-image-454  attachment-full size-full" alt="giay-in-a4"
+                            style="max-width: 100%; height: auto;" /></noscript>
+                    <div class="clear"></div>
+                </aside>
+                <h3 class="widget-title">Cung cấp văn phòng phẩm các loại</h3>
+                <aside id="%1$s" class="widget %2$s"><img width="300" height="232"
+                                                          src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20232'%3E%3C/svg%3E"
+                                                          class="image wp-image-455  attachment-medium size-medium" alt="van-phong-pham-bn1"
+                                                          style="max-width: 100%; height: auto;"
+                                                          data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2018/06/van-phong-pham-bn1-300x232.jpg" /><noscript><img
+                            width="300" height="232"
+                            src="https://tapvohocsinh.com/wp-content/uploads/2018/06/van-phong-pham-bn1-300x232.jpg"
+                            class="image wp-image-455  attachment-medium size-medium" alt="van-phong-pham-bn1"
+                            style="max-width: 100%; height: auto;" /></noscript>
+                    <div class="clear"></div>
+                </aside>
+                <h3 class="widget-title">May tags</h3>
+                <aside id="%1$s" class="widget %2$s">
+                    <div class="tagcloud"><a href="https://tapvohocsinh.com/tag/chat-luong"
+                                             class="tag-cloud-link tag-link-38 tag-link-position-1" style="font-size: 8pt;"
+                                             aria-label="chất lượng (1 item)">chất lượng</a>
+                        <a href="https://tapvohocsinh.com/tag/cong-ty-in"
+                           class="tag-cloud-link tag-link-15 tag-link-position-2" style="font-size: 20.30303030303pt;"
+                           aria-label="Cong ty in (55 items)">Cong ty in</a>
+                        <a href="https://tapvohocsinh.com/tag/dntn-nhat-dong"
+                           class="tag-cloud-link tag-link-13 tag-link-position-3" style="font-size: 20.89696969697pt;"
+                           aria-label="Dntn Nhat dong (65 items)">Dntn Nhat dong</a>
+                        <a href="https://tapvohocsinh.com/tag/giay-in-a4"
+                           class="tag-cloud-link tag-link-24 tag-link-position-4" style="font-size: 8pt;"
+                           aria-label="Giay in A4 (1 item)">Giay in A4</a>
+                        <a href="https://tapvohocsinh.com/tag/gia"
+                           class="tag-cloud-link tag-link-36 tag-link-position-5" style="font-size: 8pt;"
+                           aria-label="giá (1 item)">giá</a>
+                        <a href="https://tapvohocsinh.com/tag/giay"
+                           class="tag-cloud-link tag-link-39 tag-link-position-6" style="font-size: 8pt;"
+                           aria-label="giấy (1 item)">giấy</a>
+                        <a href="https://tapvohocsinh.com/tag/hoc-tap"
+                           class="tag-cloud-link tag-link-29 tag-link-position-7" style="font-size: 16.824242424242pt;"
+                           aria-label="Hoc tap (21 items)">Hoc tap</a>
+                        <a href="https://tapvohocsinh.com/tag/in" class="tag-cloud-link tag-link-35 tag-link-position-8"
+                           style="font-size: 8pt;" aria-label="in (1 item)">in</a>
+                        <a href="https://tapvohocsinh.com/tag/in-binh-duong"
+                           class="tag-cloud-link tag-link-16 tag-link-position-9" style="font-size: 14.278787878788pt;"
+                           aria-label="In binh duong (10 items)">In binh duong</a>
+                        <a href="https://tapvohocsinh.com/tag/in-nhan-vo"
+                           class="tag-cloud-link tag-link-22 tag-link-position-10" style="font-size: 8pt;"
+                           aria-label="In nhan vo (1 item)">In nhan vo</a>
+                        <a href="https://tapvohocsinh.com/tag/in-nhat-dong"
+                           class="tag-cloud-link tag-link-7 tag-link-position-11" style="font-size: 20.387878787879pt;"
+                           aria-label="In nhat dong (57 items)">In nhat dong</a>
+                        <a href="https://tapvohocsinh.com/tag/in-tap-hoc-sinh"
+                           class="tag-cloud-link tag-link-6 tag-link-position-12" style="font-size: 17.842424242424pt;"
+                           aria-label="In tap hoc sinh (28 items)">In tap hoc sinh</a>
+                        <a href="https://tapvohocsinh.com/tag/khach-hang"
+                           class="tag-cloud-link tag-link-37 tag-link-position-13" style="font-size: 8pt;"
+                           aria-label="khách hàng (1 item)">khách hàng</a>
+                        <a href="https://tapvohocsinh.com/tag/san-pham-khac"
+                           class="tag-cloud-link tag-link-28 tag-link-position-14" style="font-size: 20.89696969697pt;"
+                           aria-label="San pham khac (65 items)">San pham khac</a>
+                        <a href="https://tapvohocsinh.com/tag/san-xuat-giay"
+                           class="tag-cloud-link tag-link-23 tag-link-position-15"
+                           style="font-size: 14.872727272727pt;" aria-label="San xuat giay (12 items)">San xuat
+                            giay</a>
+                        <a href="https://tapvohocsinh.com/tag/san-xuat-tap-vo"
+                           class="tag-cloud-link tag-link-10 tag-link-position-16"
+                           style="font-size: 18.775757575758pt;" aria-label="San xuat tap vo (36 items)">San xuat tap
+                            vo</a>
+                        <a href="https://tapvohocsinh.com/tag/so-tay"
+                           class="tag-cloud-link tag-link-34 tag-link-position-17" style="font-size: 8pt;"
+                           aria-label="sổ tay (1 item)">sổ tay</a>
+                        <a href="https://tapvohocsinh.com/tag/tap-96-trang"
+                           class="tag-cloud-link tag-link-19 tag-link-position-18"
+                           style="font-size: 13.090909090909pt;" aria-label="Tap 96 trang (7 items)">Tap 96 trang</a>
+                        <a href="https://tapvohocsinh.com/tag/tap-200-trang"
+                           class="tag-cloud-link tag-link-17 tag-link-position-19"
+                           style="font-size: 13.090909090909pt;" aria-label="Tap 200 trang (7 items)">Tap 200 trang</a>
+                        <a href="https://tapvohocsinh.com/tag/tin-khac"
+                           class="tag-cloud-link tag-link-11 tag-link-position-20" style="font-size: 22pt;"
+                           aria-label="Tin khac (89 items)">Tin khac</a>
+                        <a href="https://tapvohocsinh.com/tag/trang"
+                           class="tag-cloud-link tag-link-33 tag-link-position-21" style="font-size: 8pt;"
+                           aria-label="trang (1 item)">trang</a>
+                        <a href="https://tapvohocsinh.com/tag/vai-lau"
+                           class="tag-cloud-link tag-link-27 tag-link-position-22"
+                           style="font-size: 14.872727272727pt;" aria-label="Vai lau (12 items)">Vai lau</a>
+                        <a href="https://tapvohocsinh.com/tag/van-phong-pham"
+                           class="tag-cloud-link tag-link-25 tag-link-position-23"
+                           style="font-size: 21.745454545455pt;" aria-label="Van phong pham (82 items)">Van phong
+                            pham</a>
+                        <a href="https://tapvohocsinh.com/tag/vo-hoc-sinh"
+                           class="tag-cloud-link tag-link-4 tag-link-position-24" style="font-size: 20.30303030303pt;"
+                           aria-label="Vo hoc sinh (55 items)">Vo hoc sinh</a>
+                        <a href="https://tapvohocsinh.com/tag/vo-sinh-vien"
+                           class="tag-cloud-link tag-link-5 tag-link-position-25" style="font-size: 15.466666666667pt;"
+                           aria-label="Vo sinh vien (14 items)">Vo sinh vien</a>
+                    </div>
+                    <div class="clear"></div>
+                </aside>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
 @endsection

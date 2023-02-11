@@ -21,6 +21,9 @@ use Illuminate\Support\Facades\Session;
 
 class ProductController extends Controller
 {
+    public function index(){
+        return view('canans.product.index');
+    }
     public function detail($id, $slug)
     {
         $product = Product::findOrFail($id);
@@ -51,21 +54,21 @@ class ProductController extends Controller
     {
         try {
             $product = Product::findOrFail($request->id);
-        
+
                 $count = (int)$request->count;
-        
-               
+
+
                 $data = array(
-                    'id'=>$product->id, 
-                    'name'=>$product->name, 
+                    'id'=>$product->id,
+                    'name'=>$product->name,
                     'qty'=>$count,
-                    'price'=>$product->price, 
+                    'price'=>$product->price,
                     'weight' => 550,
                     'options'=>array(
                         'image'=>$product->image
                     )
                 );
-       
+
         Cart::add($data);
         $count = Cart::count();
             return response()->json(["status"=>200, "message"=>"Thành công", "result"=>$data, "count"=>$count]);
@@ -78,7 +81,7 @@ class ProductController extends Controller
     {
         return view('canans.cart.list');
     }
-    
+
     public function listCartAjax(Request $request)
     {
         try {
@@ -101,7 +104,7 @@ class ProductController extends Controller
             return response()->json(["status"=>200, "message"=>"Thành công", "result"=>'', 'count'=>$count, 'subtotal'=>$subtotal, "priceTotal"=>$priceTotal]);
         } catch (\Throwable $th) {
             return response()->json(["status"=>201, "message"=>"Thất bại", "result"=>$th]);
-        } 
+        }
     }
 
     public function deleteItemCart(Request $request)
@@ -120,8 +123,8 @@ class ProductController extends Controller
     public function orderCart(Request $request)
     {
         // return $request->all();
-        
-        
+
+
         try {
             $order = new Order($request->all());
             $order->save();

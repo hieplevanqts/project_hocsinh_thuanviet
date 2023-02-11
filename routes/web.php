@@ -107,6 +107,7 @@ Route::get('home/getNewsHome', [HomeController::class, 'getNewsHome']);
 Route::get('danh-muc/{id}/{slug}', 'App\Http\Controllers\CategoryController@viewCategory');
 Route::get('category/listProduct/{id}', 'App\Http\Controllers\CategoryController@listProduct');
 Route::get('san-pham/{id}/{slug}', 'App\Http\Controllers\ProductController@detail');
+Route::get('san-pham', 'App\Http\Controllers\ProductController@index');
 Route::get('product/detail/{id}', 'App\Http\Controllers\ProductController@getDetailProduct');
 Route::post('product/addCart', 'App\Http\Controllers\ProductController@addCart');
 Route::get('product/listCart', 'App\Http\Controllers\ProductController@listCart');
@@ -128,6 +129,7 @@ Route::get('doi-ngu-nhan-vien', 'App\Http\Controllers\ThuanvietController@doingu
 Route::get('cam-ket', 'App\Http\Controllers\ThuanvietController@camket');
 Route::get('bang-gia', 'App\Http\Controllers\ThuanvietController@banggia');
 Route::get('lien-he', 'App\Http\Controllers\ThuanvietController@lienhe');
+Route::get('in-tap-vo-theo-yeu-cau', 'App\Http\Controllers\ThuanvietController@invotheoyc');
 
 
 

@@ -1,121 +1,135 @@
-<div id="fb-root"></div>
-<script>(function (d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-</script>
-<div id="page">
-    <script type="text/javascript"
-            src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-    <script type="text/javascript" src="http://giupviechaianh.com/assets/js/google_translate.js"></script>
-    <div id="google_translate_element"></div>
-    <header>
-        <div id="header_mobile" class="bar_web_bgr hidden-sm hidden-md hidden-lg">
-            <div class="container">
-                <div class="row">
-                    <div class="mm-toggle-wrap col-xs-2">
-                        <div class="mm-toggle"><i class="fa fa-bars"></i></div>
-                    </div>
-                    <div class="col-xs-10 col-logo-mobile logo-header text-center">
-                        <a href="/">
-                            <img src="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png" alt="Logo"
-                                 class="company_logo_img">
-                        </a>
-                    </div>
+<div class="header">
+    <div class="header-inner">
+        <div class="logo">
+            <a href="{{asset('')}}">
+                <img width="240" height="60"
+                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20240%2060'%3E%3C/svg%3E"
+                     data-lazy-src="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png"><noscript><img
+                        width="240" height="60"
+                        src="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png" /></noscript>
+                <span class="tagline"></span>
+            </a>
+        </div>
+        <div class="header_row">
+            <div class="column-1">
+                <i class="fa fa-phone"></i>
+                <div class="phone-email-info">
+                    <span class="hederphone"><a href="tel:0336888648"> 0336888648</a></span><br />
+{{--                    <span class="hederemailid"><a href="mailto:vanhiep2008@gmail.com">--}}
+{{--                                vanhiep2008@gmail.com</a></span>--}}
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="column-1 column-2">
+                <i class="fa fa-home"></i>
+                <div class="phone-email-info">
+                    <span class="hederphone">Tân Bình, TP HCM</span><br />
+{{--                    <span class="hederemailid">Thuận An, BÌnh Dương</span>--}}
+                    <div class="clear"></div>
                 </div>
             </div>
-        </div>
-        <div class="header_top hidden-xs">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 col-sm-5">
-                        <div class="company_name txt_web_color text-uppercase">Dịch Vụ Giúp Việc Chuyên Nghiệp THUẦN VIỆT </div>
-                    </div>
-                    <div class="col-md-6 col-sm-7">
-                        <ul id="header_top_info">
-                            <li><i class="fa fa-phone-square txt_web_color" aria-hidden="true"></i><span>Hotline:
-                                    </span><strong><a href="tel:0336888648">03366.888.648 -
-                                        039.511.6390</a></strong></li>
-                            |
-                            <li><i class="icon-mail txt_web_color"></i><span><a
-                                        href="mailto:vanhiep2008@gmail.com">vanhiep2008@gmail.com</a></span></li>
-                        </ul>
-                    </div>
-                </div>
+            <div class="column-3">
+                <div class="social-icons"><a href="#" target="_blank" class="fa fa-facebook fa-2x"
+                                             title="facebook"></a><a href="#" target="_blank" class="fa fa-twitter fa-2x"
+                                                                     title="twitter"></a><a href="#" target="_blank" class="fa fa-google-plus fa-2x"
+                                                                                            title="google-plus"></a><a href="#" target="_blank" class="fa fa-linkedin fa-2x"
+                                                                                                                       title="linkedin"></a><a href="#" target="_blank" class="fa fa-instagram fa-2x"
+                                                                                                                                               title="instagram"></a></div>
             </div>
+            <div class="clear"></div>
         </div>
-        <div class="main_menu_2 hidden-xs">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-5 col-sm-12 col-menu-2-logo-search">
-                        <div class="main_menu_2_group_logo_search bar_web_bgr clearfix">
-                            <div class="main_menu_2_logo pull-left">
-                                <a href="/">
-                                    <img src="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png"
-                                         alt="Logo">
-                                </a>
-                            </div>
-                            <div class="main_menu_2_group_search pull-left">
-                                <div class="input-group group_search">
-                                    <form method="post" class="clearfix" action="/p-search/">
-                                        <select class="form-control pull-left" name="catID">
-                                            <option value="0">Danh mục</option>
-                                            <option value="97011">Đội ngũ nhân viên</option>
-                                        </select>
-                                        <div class="pull-left">
-                                            <input type="text" name="keyword" value="" class="form-control"
-                                                   placeholder="Nhập từ khóa" required="">
-                                        </div>
-                                        <button type="submit" id="btn_search">
-                                            <i class="icon-search"></i>
-                                        </button>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-7 col-sm-12 col-menu-2-menu-item">
-                        <div class="nav-container">
-                            <ul id="nav-menu-top-2" class="clearfix pull-right">
-                                <li class="level0"><a href="{{asset('/')}}" class="level0 active
-                                 "><i class="fa fa-home" aria-hidden="true"></i> <span>Home</span></a> </li>
-                                <li class="level0"><a href="{{asset('gioi-thieu')}}" class="level0
-                                 "> <span>Giới Thiệu</span></a> </li>
-                                <li class="level0">
-                                    <a href="javascript:void(0)" class="level0
-                                    has-children"> <span>Dịch Vụ Giúp Việc</span></a>
-                                    <ul class="level0 horizental">
-                                        <li class="main_category_0"><a href="{{asset('giup-viec-gia-dinh')}}"
-                                                                       class="level1"><span>Giúp Việc Nhà Gia Đình</span></a></li>
-                                        <li class="main_category_0"><a href="{{asset('giup-viec-theo-gio')}}"
-                                                                       class="level1"><span>Giúp Việc Nhà Theo Giờ</span></a></li>
-                                        <li class="main_category_0"><a href="{{asset('tap-vu-van-phong')}}"
-                                                                       class="level1"><span>Tạp vụ văn phòng</span></a></li>
-                                        <li class="main_category_0"><a href="{{asset('giup-viec-trong-tre')}}"
-                                                                       class="level1"><span>Giúp Việc Trông Trẻ</span></a></li>
-                                        <li class="main_category_0"><a href="{{asset('cham-soc-nguoi-gia')}}"
-                                                                       class="level1"><span>Giúp Việc Chăm Sóc Người Già</span></a></li>
-                                        <li class="main_category_0"><a href="{{asset('giup-viec-pho-thong')}}"
-                                                                       class="level1"><span>Giúp Việc Phổ Thông</span></a></li>
-                                    </ul>
-                                </li>
-                                <li class="level0"><a href="{{asset('doi-ngu-nhan-vien')}}" class="level0
-                                 "> <span>Đội ngũ nhân viên</span></a> </li>
-                                <li class="level0"><a href="{{asset('cam-ket')}}" class="level0
-                                 "> <span>Cam kết</span></a> </li>
-                                <li class="level0"><a href="{{asset('bang-gia')}}" class="level0
-                                 "> <span>Bảng Giá</span></a> </li>
-                                <li class="level0"><a href="{{asset('lien-he')}}" class="level0
-                                 "><i class="fa fa-user-circle-o" aria-hidden="true"></i> <span>Liên hệ</span></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+        <div class="clear"></div>
+        <div class="toggle">
+            <a class="toggleMenu" href="#">Menu</a>
+        </div>
+        <div class="nav">
+            <div class="menu-menu2-container">
+                <ul id="menu-menu2" class="menu">
+                    <li
+                        class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-186">
+                        <a href="https://tapvohocsinh.com" aria-current="page">Trang chủ</a></li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-188"><a
+                            href="{{asset('gioi-thieu')}}">Giới thiệu</a>
+                    </li>
+                    <li
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-486">
+                        <a href="{{asset('san-pham')}}">Sản phẩm</a>
+{{--                        <ul class="sub-menu">--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1817"><a--}}
+{{--                                    href="https://tapvohocsinh.com/vo-ke-ngang-gia-re">Tập vở kẻ ngang</a></li>--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-738"><a--}}
+{{--                                    href="https://tapvohocsinh.com/co-so-san-xuat-giay-kraft-xi-mang-goi-hang-gia-re-chat-luong">Giấy--}}
+{{--                                    Kraft gói hàng</a></li>--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-448"><a--}}
+{{--                                    href="https://tapvohocsinh.com/in-offset-gia-re-tai-binh-duong">In offset giá--}}
+{{--                                    rẻ</a></li>--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-305"><a--}}
+{{--                                    href="https://tapvohocsinh.com/in-cac-loai-hoa-don-phieu-chi-thu">In hóa đơn--}}
+{{--                                    &#8211; Phiếu chi thu</a></li>--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-526"><a--}}
+{{--                                    href="https://tapvohocsinh.com/in-hoa-don-xuat-nhap-kho-theo-yeu-cau">In hóa đơn--}}
+{{--                                    xuất nhập kho</a></li>--}}
+{{--                            <li--}}
+{{--                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-499">--}}
+{{--                                <a href="https://tapvohocsinh.com/in-ve-giu-xe-gia-re-tai-binh-duong-tphcm">In vé--}}
+{{--                                    giữ xe</a>--}}
+{{--                                <ul class="sub-menu">--}}
+{{--                                    <li--}}
+{{--                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-634">--}}
+{{--                                        <a--}}
+{{--                                            href="https://tapvohocsinh.com/dich-vu-in-phieu-giu-xe-gia-re-chuyen-nghiep-tai-binh-duong">In--}}
+{{--                                            phiếu giữ xe Bình dương</a></li>--}}
+{{--                                </ul>--}}
+{{--                            </li>--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-680"><a--}}
+{{--                                    href="https://tapvohocsinh.com/co-so-cong-ty-nha-may-san-xuat-giay-o-binh-duong">Giấy--}}
+{{--                                    bình dương</a></li>--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-683"><a--}}
+{{--                                    href="https://tapvohocsinh.com/cong-ty-san-xuat-giay-in-giay-bao-goi-hang-tai-dong-nai">Giấy--}}
+{{--                                    Đồng nai</a></li>--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-485"><a--}}
+{{--                                    href="https://tapvohocsinh.com/van-phong-pham-gia-re-tai-binh-duong.html">Văn--}}
+{{--                                    phòng phẩm</a></li>--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-515"><a--}}
+{{--                                    href="https://tapvohocsinh.com/vai-lau-gie-lau-cong-nghiep-gia-re">Vải lau công--}}
+{{--                                    nghiệp</a></li>--}}
+{{--                        </ul>--}}
+                    </li>
+                    <li
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-303">
+                        <a href="{{asset('in-tap-vo-theo-yeu-cau')}}">In tập vở theo yêu
+                            cầu</a>
+{{--                        <ul class="sub-menu">--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-301"><a--}}
+{{--                                    href="https://tapvohocsinh.com/tap-vo-viet-hoc-sinh-70-trang">Tập vở viết 70--}}
+{{--                                    trang</a></li>--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-302"><a--}}
+{{--                                    href="https://tapvohocsinh.com/tap-vo-viet-hoc-sinh-80-trang">Tập vở viết 80--}}
+{{--                                    trang</a></li>--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-300"><a--}}
+{{--                                    href="https://tapvohocsinh.com/tap-vo-viet-hoc-sinh-96-trang">Tập vở viết 96--}}
+{{--                                    trang</a></li>--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-487"><a--}}
+{{--                                    href="https://tapvohocsinh.com/tap-vo-hoc-sinh-loai-200-gia-bao-nhieu.html">Tập--}}
+{{--                                    vở viết 200 trang</a></li>--}}
+{{--                        </ul>--}}
+                    </li>
+                    <li
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-304">
+                        <a href="{{asset('gia-cong-tap-vo-hs')}}">Gia công tập vở
+                            viết</a>
+{{--                        <ul class="sub-menu">--}}
+{{--                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-563"><a--}}
+{{--                                    href="https://tapvohocsinh.com/dia-chi-san-xuat-in-an-ban-tap-vo-tap-hoc-sinh-si-le-gia-re.html">Tập--}}
+{{--                                    học sinh giá sỉ</a></li>--}}
+{{--                        </ul>--}}
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a
+                            href="https://tapvohocsinh.com/lien-he">Liên hệ</a></li>
+                </ul>
             </div>
+            <div class="clear"></div>
         </div>
-
-    </header>
+        <div class="clear"></div>
+    </div>
+</div>
