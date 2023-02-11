@@ -63,9 +63,8 @@
                                                         <li class="ez-toc-heading-level-4"><a
                                                                 class="ez-toc-link ez-toc-heading-3"
                                                                 href="#Tap_vo_hoc_sinh_200_trang_gia_bao_nhieu_tien_tai_DNTN_Nhat_Dong"
-                                                                title="Tập vở học sinh 200 trang giá bao nhiêu tiền tại DNTN Nhật Đông">Tập
-                                                                vở học sinh 200 trang giá bao nhiêu tiền tại DNTN Nhật
-                                                                Đông</a>
+                                                                title="Tập vở học sinh 200 trang giá bao nhiêu tiền tại Công ty TNHH Thuần Việt">Tập
+                                                                vở học sinh 200 trang giá bao nhiêu tiền tại Công ty TNHH Thuần Việt</a>
                                                             <ul class="ez-toc-list-level-5">
                                                                 <li class="ez-toc-heading-level-5"><a
                                                                         class="ez-toc-link ez-toc-heading-4"
@@ -77,9 +76,9 @@
                                                                         <li class="ez-toc-heading-level-6"><a
                                                                                 class="ez-toc-link ez-toc-heading-5"
                                                                                 href="#Vi_sao_nen_chon_tap_vo_hoc_sinh_200_trang_cua_Nhat_Dong"
-                                                                                title="Vì sao nên chọn tập vở học sinh 200 trang của Nhật Đông">Vì
+                                                                                title="Vì sao nên chọn tập vở học sinh 200 trang của Thuần Việt">Vì
                                                                                 sao nên chọn tập vở học sinh 200 trang
-                                                                                của Nhật Đông</a></li>
+                                                                                của Thuần Việt</a></li>
                                                                     </ul>
                                                                 </li>
                                                             </ul>
@@ -121,7 +120,7 @@
                                         srcset="https://tapvohocsinh.com/wp-content/uploads/2020/11/tap-hoc-sinh20.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2020/11/tap-hoc-sinh20-300x225.jpg 300w"
                                         sizes="(max-width: 600px) 100vw, 600px" /></noscript>
                                 <p id="caption-attachment-1188" class="wp-caption-text"><span
-                                        style="color: #3366ff;"><em>Nhật Đông nhận thiết kế, in ấn &amp; cung cấp tập vở
+                                        style="color: #3366ff;"><em>Thuần Việt nhận thiết kế, in ấn &amp; cung cấp tập vở
                                             200 trang đủ các loại</em></span></p>
                             </div>
                             <h3><span class="ez-toc-section"
@@ -156,23 +155,22 @@
                                         srcset="https://tapvohocsinh.com/wp-content/uploads/2018/04/tap-vo-200-trang-2-1.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2018/04/tap-vo-200-trang-2-1-300x192.jpg 300w"
                                         sizes="(max-width: 600px) 100vw, 600px" /></noscript>
                                 <p id="caption-attachment-153" class="wp-caption-text"><span
-                                        style="color: #0000ff;"><em>Ảnh: Tập vở viết loại 200 trang do Nhật đông sản
+                                        style="color: #0000ff;"><em>Ảnh: Tập vở viết loại 200 trang do Thuần Việt sản
                                             xuất</em></span></p>
                             </div>
                             <h4><span class="ez-toc-section"
                                       id="Tap_vo_hoc_sinh_200_trang_gia_bao_nhieu_tien_tai_DNTN_Nhat_Dong"></span><span
-                                    style="font-size: 14pt;">Tập vở học sinh 200 trang giá bao nhiêu tiền tại DNTN Nhật
-                                    Đông</span><span class="ez-toc-section-end"></span></h4>
+                                    style="font-size: 14pt;">Tập vở học sinh 200 trang giá bao nhiêu tiền tại Thuần Việt</span><span class="ez-toc-section-end"></span></h4>
                             <p>Tập vở vở học sinh 200 trang giá bao nhiêu hiện nay có thể nói phụ thuộc vào nhiều yếu tố
                                 khác nhau. Chất lượng giấy, màu in, kích thước, ô ly, địa chỉ sản xuất,&#8230;là những
-                                yếu tố quyết định đến giá thành của một sản phẩm. Doanh nghiệp Nhật đông không chỉ có
+                                yếu tố quyết định đến giá thành của một sản phẩm. Doanh nghiệp Thuần Việt không chỉ có
                                 các loại tập vở 200 trang mà có những loại chỉ từ 96 trang, 120 trang,&#8230;Hiện nay
                                 trên thị trường có nhiều loại tập tuy in bìa đẹp nhưng giấy in tập bên trong không đạt
                                 chất lượng tốt, trong quá trình sử dụng sẽ gặp một số sự cố như nhanh phai mực hoặc mực
                                 bị nhòe đặc biệt là nhòe cực nhanh khi tập bị dính nước. Do đó, trước khi quyết định lựa
                                 chọn một địa chỉ in ấn nào đó, bạn phải chú trọng đến một số vấn đề nêu trên, để có được
                                 tập giấy ưng ý nhất có thể.</p>
-                            <p>DNTN Nhật Đông hiện nay cung cấp đến khách hàng tập vở 96 trang, 120 trang và 200 trang
+                            <p>Công ty TNHH Thuần Việt hiện nay cung cấp đến khách hàng tập vở 96 trang, 120 trang và 200 trang
                                 tùy thuộc vào độ định lượng giấy mà khách hàng yêu cầu. Giá của một tập vở học sinh 200
                                 trang còn được tính theo độ dày mỏng của giấy. Chúng tôi chưa thể cập nhật ngay bảng giá
                                 chính xác của loại tập này mà chỉ áng chừng trong khoảng từ 10.000đ &#8211; 13.000đ/cuốn
@@ -181,7 +179,7 @@
                             <p>Để biết được tập vở 200 giá bao nhiêu một cách cụ thể, bạn đọc cần phải liên lạc trực
                                 tiếp với đơn vị sản xuất. Thông qua những mong muốn, yêu cầu mà hai bên sẽ trao đổi và
                                 bàn bạc đi đến thống nhất cuối cùng về mức giá. giá in tập vở học sinh loại 200 trang ở
-                                Nhật Đông nhìn chung phù hợp với túi tiền của rất nhiều người, cam kết cạnh tranh giá rẻ
+                                Thuần Việt nhìn chung phù hợp với túi tiền của rất nhiều người, cam kết cạnh tranh giá rẻ
                                 trên thị trường.</p>
                             <div id="attachment_154" style="width: 610px" class="wp-caption aligncenter"><img
                                     aria-describedby="caption-attachment-154" class="wp-image-154"
@@ -196,8 +194,7 @@
                                         srcset="https://tapvohocsinh.com/wp-content/uploads/2018/04/tap-viet-200-trang-3.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2018/04/tap-viet-200-trang-3-300x192.jpg 300w"
                                         sizes="(max-width: 600px) 100vw, 600px" /></noscript>
                                 <p id="caption-attachment-154" class="wp-caption-text"><span
-                                        style="color: #0000ff;"><em>Ảnh: Tập vở học sinh loại 200 trang của Nhật
-                                            đông</em></span></p>
+                                        style="color: #0000ff;"><em>Ảnh: Tập vở học sinh loại 200 trang của Thuần Việt</em></span></p>
                             </div>
                             <h5><span class="ez-toc-section"
                                       id="Quy_trinh_ma_chung_toi_lam_viec_voi_khach_hang_de_san_xuat_tap_vo_hoc_sinh_200_trang"></span><span
@@ -210,7 +207,7 @@
                             <p>+ Thiết bản in bìa trong, bìa ngoài, trước và sau</p>
                             <p>+ Doanh nghiệp chúng tôi tiến hành sản xuất</p>
                             <p>=&gt; Với phương trâm khách hàng là thượng đế, chất lượng là trên hết xong khách hàng cần
-                                tuân thủ mọi quy định của doanh nghiệp Nhật đông làm việc các bước nghiêm túc để có được
+                                tuân thủ mọi quy định của doanh nghiệp Thuần Việt làm việc các bước nghiêm túc để có được
                                 thiện chí hợp tác. Chúng tôi không khuyến khích việc tiếp quý khách hàng không có nhu
                                 cầu mà chỉ hỏi giá, làm việc mang tính chất thăm dò, không có thiện chí hợp tác vì điều
                                 đó làm mất thời gian của cả hai bên.</p>
@@ -232,11 +229,10 @@
                             </div>
                             <h6><span class="ez-toc-section"
                                       id="Vi_sao_nen_chon_tap_vo_hoc_sinh_200_trang_cua_Nhat_Dong"></span><span
-                                    style="font-size: 14pt;">Vì sao nên chọn tập vở học sinh 200 trang của Nhật
-                                    Đông</span><span class="ez-toc-section-end"></span></h6>
-                            <p>* Giá tập vở 200 trang cũng như giá tập vở học sinh tại Nhật Đông rẻ hơn so với giá thị
+                                    style="font-size: 14pt;">Vì sao nên chọn tập vở học sinh 200 trang của Thuần Việt</span><span class="ez-toc-section-end"></span></h6>
+                            <p>* Giá tập vở 200 trang cũng như giá tập vở học sinh tại Thuần Việt rẻ hơn so với giá thị
                                 trường.</p>
-                            <p>* Chất lượng sản phẩm luôn đặt lên hàng đầu. Đặc biệt bên đơn vị Nhật Đông quản lý chất
+                            <p>* Chất lượng sản phẩm luôn đặt lên hàng đầu. Đặc biệt bên đơn vị Thuần Việt quản lý chất
                                 lượng hàng hóa vô cùng nghiêm ngặt, tự cung và tự ứng luôn ( nghĩa là có xưởng sản xuất
                                 &amp; cung cấp trực tiếp cho khách không qua bất cứ khâu trung gian nào)</p>
                             <p>* Bên cạnh đó, giao hàng cho tất cả các địa chỉ trong khu vực TP.HCM &#8211; Bình Dương
@@ -249,12 +245,12 @@
                                 tôi nếu như quý bạn cần sử dụng dịch vụ in ấn, in offset hay tập vở các loại đặc biệt là
                                 dòng tập vở học sinh 200 trang bạn nhé. Đảm bảo sẽ mang đến cho quý bạn những dòng sản
                                 phẩm cũng như dịch vụ có giá trị và chất lượng nhất.</p>
-                            <p><strong>DNTN TMDV NHẬT ĐÔNG</strong><br />
-                                Địa chỉ: 30/1, Đại Lộ Hữu Nghị, KCN VSIP1, Thuận An, BÌnh Dương<br />
-                                Xưởng sản xuất: 5/24, Bình Đức, Bình Hòa, Thuận An, Bình Dương<br />
-                                Mobile: 0918 069 020(Mr Hiến) – 0937 317 355(Ms Mai)<br />
-                                Hotline: (0274)3784 757<br />
-                                Email: phungthimai2011@gmail.com</p>
+                            <p><strong>DNTN TMDV Thuần Việt</strong><br />
+                                Địa chỉ: Tân Bình, TP HCM<br />
+                                Xưởng sản xuất: Tân Bình, TP HCM<br />
+                                Mobile: 0336.888.648(Mr Hiệp) – 0336.888.648(Ms Sương)<br />
+                                Hotline: 0336.888.648<br />
+                                Email: vanhiep2008@gmail.com</p>
                             <p>Chúng tôi sẳn sàng giúp đỡ và tư vấn cho quý khách biết chính xác bảng giá các loại tập
                                 vở viết mà chúng tôi đang sản xuất và cung ứng trên thị trường hiện nay.</p>
                             <p><em>Xem thêm bài liên quan về tập 200 trang&gt;&gt; <a
@@ -273,7 +269,7 @@
 {{--                                <div class="yarpp-thumbnails-horizontal">--}}
 {{--                                    <a class='yarpp-thumbnail' rel='norewrite'--}}
 {{--                                       href='https://tapvohocsinh.com/kich-thuoc-vo-hoc-sinh-bao-nhieu.html'--}}
-{{--                                       title='Kích thước vở học sinh bao nhiêu tại Nhật Đông'>--}}
+{{--                                       title='Kích thước vở học sinh bao nhiêu tại Thuần Việt'>--}}
 {{--                                        <img width="150" height="150"--}}
 {{--                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"--}}
 {{--                                             class="attachment-thumbnail size-thumbnail wp-post-image" alt=""--}}
@@ -434,14 +430,13 @@
                 <h3 class="widget-title">Hỗ trợ tư vấn</h3>
                 <aside id="%1$s" class="widget %2$s">
                     <div class="textwidget">
-                        <p><span style="color: #f00;"><span style="font-size: 24px;"><strong>&#8211; 0918 069 020
-                                    </strong>(Mr Hiến)</span></span></p>
+                        <p><span style="color: #f00;"><span style="font-size: 24px;"><strong>&#8211; 0336.888.648
+                                    </strong>(Mr Hiệp)</span></span></p>
                         <p>&nbsp;</p>
                         <p><span style="color: #f00;"><span style="font-size: 24px;"><strong>&#8211;</strong>
-                                    <strong>0937 317 355</strong> (Ms Mai)</span></span></p>
+                                    <strong>0336.888.648</strong> (Ms Hiệp)</span></span></p>
                         <p>&nbsp;</p>
-                        <p><span style="color: #f00;"><span style="font-size: 24px;"><b>&#8211; </b><strong>(0274) 3784
-                                        757</strong> (Ms Mai)</span></span></p>
+                        <p><span style="color: #f00;"><span style="font-size: 24px;"><b>&#8211; </b><strong>0336.888.648</strong> (Ms Mai)</span></span></p>
                     </div>
                     <div class="clear"></div>
                 </aside>
@@ -449,7 +444,7 @@
                 <aside id="%1$s" class="widget %2$s">
                     <div class="textwidget">
                         <p style="text-align: center;"><a title="Chat zalo in tập vở học sinh"
-                                                          href="https://zalo.me/0937317355"><img class="alignnone size-full wp-image-940"
+                                                          href="https://zalo.me/0336888648"><img class="alignnone size-full wp-image-940"
                                                                                                  src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2044'%3E%3C/svg%3E"
                                                                                                  alt="" width="350" height="44"
                                                                                                  data-lazy-srcset="https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo.jpg 350w, https://tapvohocsinh.com/wp-content/uploads/2019/12/chat-qua-zalo-300x38.jpg 300w"
@@ -481,7 +476,7 @@
                     <div class="textwidget">
                         <p><span style="font-size: 18px;"><span style="color: #ff0000;">KHÔNG BÁN LẺ TẬP HỌC
                                     SINH</span></span></p>
-                        <p><span style="color: #0000ff;"><span style="font-size: 14px;">DNTN Nhật Đông chúng tôi là đơn
+                        <p><span style="color: #0000ff;"><span style="font-size: 14px;">Công ty TNHH Thuần Việt chúng tôi là đơn
                                     vị sản xuất, chỉ in ấn tập giá sỉ số lượng từ 1000 cuốn trở lên, không bán lẻ.<br />
                                     Quý khách mua tập vở lẻ xin liên hệ với shop khác ạ. Cảm ơn quý khách khách đã đọc
                                     lưu ý này!</span></span></p>

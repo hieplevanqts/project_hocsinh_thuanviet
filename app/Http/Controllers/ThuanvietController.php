@@ -55,4 +55,8 @@ class ThuanvietController extends Controller
     public function invotheoyc(){
         return view('canans.product.invotheoyc');
     }
+
+    public function giacongvohs(){
+        return view('canans.product.giacongvohs');
+    }
 }

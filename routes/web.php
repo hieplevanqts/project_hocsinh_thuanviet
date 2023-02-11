@@ -130,6 +130,9 @@ Route::get('cam-ket', 'App\Http\Controllers\ThuanvietController@camket');
 Route::get('bang-gia', 'App\Http\Controllers\ThuanvietController@banggia');
 Route::get('lien-he', 'App\Http\Controllers\ThuanvietController@lienhe');
 Route::get('in-tap-vo-theo-yeu-cau', 'App\Http\Controllers\ThuanvietController@invotheoyc');
+Route::get('gia-cong-tap-vo-hs', 'App\Http\Controllers\ThuanvietController@giacongvohs');
+
+
 
 
 

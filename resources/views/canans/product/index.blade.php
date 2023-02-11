@@ -13,15 +13,15 @@
             <div class="site-main" id="sitemain">
                 <article id="post-1811" class="post-1811 page type-page status-publish hentry">
                     <header class="entry-header">
-                        <h1 class="entry-title">Vở kẻ ngang giá rẻ &#8211; Nhật Đông chất lượng cao</h1>
+                        <h1 class="entry-title">Vở kẻ ngang giá rẻ &#8211; Thuần Việt chất lượng cao</h1>
                     </header>
                     <div class="entry-content">
-                        <p><em><strong>Vở kẻ ngang giá rẻ Nhật Đông</strong> &#8211; Hiện tại, trên thị trường các loại
+                        <p><em><strong>Vở kẻ ngang giá rẻ Thuần Việt</strong> &#8211; Hiện tại, trên thị trường các loại
                                 vở kẻ ngang hay <a title="vở học sinh"
                                                    href="https://tapvohocsinh.com/gia-tap-vo-hoc-sinh-96-trang-hien-nay-bao-nhieu-la-chuan-nhat.html"
                                                    target="_blank" rel="noopener"><strong>vở học sinh</strong></a> đã &amp; đang được
                                 ưa chuộng, sử dụng tương đối rất nhiều đối với các bạn học sinh cấp 2, 3 &amp; đại học.
-                                Và những mẫu vở kẻ ngang nào đang được ưa chuộng nhất hiện nay tại DN Nhật Đông, hãy
+                                Và những mẫu vở kẻ ngang nào đang được ưa chuộng nhất hiện nay tại DN Thuần Việt, hãy
                                 cùng tham khảo qua bài chia sẻ bên dưới đây nhé!</em></p>
                         <div id="attachment_1530" style="width: 510px" class="wp-caption aligncenter"><img
                                 aria-describedby="caption-attachment-1530" class="wp-image-1530 size-full"
@@ -36,7 +36,7 @@
                                     srcset="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn-300x272.jpg 300w"
                                     sizes="(max-width: 500px) 100vw, 500px" /></noscript>
                             <p id="caption-attachment-1530" class="wp-caption-text"><span
-                                    style="color: #3366ff;"><em>Mẫu vở kẻ ngang Nhật Đông loại 200 trang thiết kế bìa
+                                    style="color: #3366ff;"><em>Mẫu vở kẻ ngang Thuần Việt loại 200 trang thiết kế bìa
                                         theo yêu cầu</em></span></p>
                         </div>
                         <div id="ez-toc-container" class="ez-toc-v2_0_19 counter-hierarchy counter-decimal ez-toc-grey">
@@ -52,12 +52,12 @@
                                     <li class="ez-toc-page-1 ez-toc-heading-level-2"><a
                                             class="ez-toc-link ez-toc-heading-1"
                                             href="#Hieu_nhu_the_nao_ve_cac_loai_vo_ke_ngang_Nhat_Dong"
-                                            title="Hiểu như thế nào về các loại vở kẻ ngang Nhật Đông?">Hiểu như thế nào
-                                            về các loại vở kẻ ngang Nhật Đông?</a>
+                                            title="Hiểu như thế nào về các loại vở kẻ ngang Thuần Việt?">Hiểu như thế nào
+                                            về các loại vở kẻ ngang Thuần Việt?</a>
                                         <ul class="ez-toc-list-level-3">
                                             <li class="ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-2"
                                                                                   href="#Nhat_Dong_huong_dan_cach_chon_mua_vo_ke_ngang_tot"
-                                                                                  title="Nhật Đông hướng dẫn cách chọn mua vở kẻ ngang tốt">Nhật Đông
+                                                                                  title="Thuần Việt hướng dẫn cách chọn mua vở kẻ ngang tốt">Thuần Việt
                                                     hướng dẫn cách chọn mua vở kẻ ngang tốt</a>
                                                 <ul class="ez-toc-list-level-4">
                                                     <li class="ez-toc-heading-level-4"><a
@@ -74,20 +74,20 @@
                                                             <li class="ez-toc-heading-level-5"><a
                                                                     class="ez-toc-link ez-toc-heading-5"
                                                                     href="#Nhung_loai_vo_ke_ngang_do_Nhat_Dong_cung_cap"
-                                                                    title="Những loại vở kẻ ngang do Nhật Đông cung cấp:">Những
-                                                                    loại vở kẻ ngang do Nhật Đông cung cấp:</a></li>
+                                                                    title="Những loại vở kẻ ngang do Thuần Việt cung cấp:">Những
+                                                                    loại vở kẻ ngang do Thuần Việt cung cấp:</a></li>
                                                             <li class="ez-toc-page-1 ez-toc-heading-level-5"><a
                                                                     class="ez-toc-link ez-toc-heading-6"
                                                                     href="#Vo_ke_ngang_Nhat_Dong_luon_dong_hanh_tien_buoc_toi_tuong_lai"
-                                                                    title="Vở kẻ ngang Nhật Đông luôn đồng hành tiến bước tới tương lai">Vở
-                                                                    kẻ ngang Nhật Đông luôn đồng hành tiến bước tới
+                                                                    title="Vở kẻ ngang Thuần Việt luôn đồng hành tiến bước tới tương lai">Vở
+                                                                    kẻ ngang Thuần Việt luôn đồng hành tiến bước tới
                                                                     tương lai</a>
                                                                 <ul class="ez-toc-list-level-6">
                                                                     <li class="ez-toc-heading-level-6"><a
                                                                             class="ez-toc-link ez-toc-heading-7"
                                                                             href="#Ly_do_nen_su_dung_vo_ke_ngang_Nhat_Dong"
-                                                                            title="Lý do nên sử dụng vở kẻ ngang Nhật Đông?">Lý
-                                                                            do nên sử dụng vở kẻ ngang Nhật Đông?</a>
+                                                                            title="Lý do nên sử dụng vở kẻ ngang Thuần Việt?">Lý
+                                                                            do nên sử dụng vở kẻ ngang Thuần Việt?</a>
                                                                     </li>
                                                                 </ul>
                                                             </li>
@@ -102,13 +102,13 @@
                         </div>
                         <h2><span class="ez-toc-section"
                                   id="Hieu_nhu_the_nao_ve_cac_loai_vo_ke_ngang_Nhat_Dong"></span><span
-                                style="color: #0000ff;">Hiểu như thế nào về các loại vở kẻ ngang Nhật Đông?</span><span
+                                style="color: #0000ff;">Hiểu như thế nào về các loại vở kẻ ngang Thuần Việt?</span><span
                                 class="ez-toc-section-end"></span></h2>
-                        <p>&#8211; Các loại vở kẻ ngang do Nhật Đông cung cấp là một trong những loại vở học sinh có
+                        <p>&#8211; Các loại vở kẻ ngang do Thuần Việt cung cấp là một trong những loại vở học sinh có
                             đường kẻ ly ngang và chúng được phân chia thành những ô vuông lớn bởi những đường kẻ
                             dọc, không có dòng kẻ dọc chia từng ô ly nhỏ. Đối tượng sử dụng các loại vở kẻ ngang Nhật
                             Đông thường là các bạn học sinh cấp 2, cấp 3, sinh viên,&#8230;.</p>
-                        <p>&gt;&gt; Tham khảo thêm &#8221; <strong>các loại vở kẻ ngang</strong>&#8221; do Nhật Đông
+                        <p>&gt;&gt; Tham khảo thêm &#8221; <strong>các loại vở kẻ ngang</strong>&#8221; do Thuần Việt
                             cung cấp <a href="https://tapvohocsinh.com/gia-cac-loai-vo-ke-ngang-moi-nhat.html"
                                         target="_blank" rel="noopener"><strong>TẠI ĐÂY</strong></a></p>
                         <div id="attachment_1531" style="width: 510px" class="wp-caption aligncenter"><img
@@ -124,14 +124,14 @@
                                     srcset="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn1.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn1-300x225.jpg 300w"
                                     sizes="(max-width: 500px) 100vw, 500px" /></noscript>
                             <p id="caption-attachment-1531" class="wp-caption-text"><span style="color: #3366ff;"><em>Vở
-                                        kẻ ngang 96 trang tại Nhật Đông thiết kế theo yêu cầu của khách</em></span></p>
+                                        kẻ ngang 96 trang tại Thuần Việt thiết kế theo yêu cầu của khách</em></span></p>
                         </div>
-                        <p>&#8211; Hiện tại, các mẫu vở kẻ ngang &#8211; vở học sinh Nhật Đông được ưa chuộng, sử dụng
+                        <p>&#8211; Hiện tại, các mẫu vở kẻ ngang &#8211; vở học sinh Thuần Việt được ưa chuộng, sử dụng
                             khá nhiều. Song, chúng còn là người bạn không thể thiếu được đối các bạn học sinh và sinh
-                            viên được. Vở kẻ ngang Nhật Đông hay vở học sinh các loại được thiết kế kiểu dáng vô cùng
+                            viên được. Vở kẻ ngang Thuần Việt hay vở học sinh các loại được thiết kế kiểu dáng vô cùng
                             bắt mắt, màu sắc rất đa dạng, chất liệu giấy cao cấp có độ trắng sáng vừa đủ.</p>
-                        <p>&#8211; Giá vở kẻ ngang &#8211; vở học sinh tại Nhật Đông cung rẻ hơn các đơn vị cùng nghành
-                            khác. Khi chọn sử dụng vở học sinh &#8211; vở kẻ ngang Nhật Đông thì quý anh chị nhận được
+                        <p>&#8211; Giá vở kẻ ngang &#8211; vở học sinh tại Thuần Việt cung rẻ hơn các đơn vị cùng nghành
+                            khác. Khi chọn sử dụng vở học sinh &#8211; vở kẻ ngang Thuần Việt thì quý anh chị nhận được
                             nhiều ưu đãi khuyến mãi hấp dẫn.</p>
                         <p>&gt;&gt; Hoặc xem thêm: <a
                                 href="https://tapvohocsinh.com/nen-dung-loai-tap-vo-hoc-sinh-nao-tot-nhat.html"
@@ -149,20 +149,20 @@
                                     srcset="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn2.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn2-300x225.jpg 300w"
                                     sizes="(max-width: 500px) 100vw, 500px" /></noscript>
                             <p id="caption-attachment-1532" class="wp-caption-text"><span style="color: #3366ff;"><em>Vở
-                                        kẻ ngang Nhật Đông đạt chuẩn quốc tế</em></span></p>
+                                        kẻ ngang Thuần Việt đạt chuẩn quốc tế</em></span></p>
                         </div>
-                        <p>&#8211; Bên cạnh đó, vở học sinh hay vở kẻ ngang do Nhật Đông cung cấp với nhiều màu sắc bắt
+                        <p>&#8211; Bên cạnh đó, vở học sinh hay vở kẻ ngang do Thuần Việt cung cấp với nhiều màu sắc bắt
                             mắt điều này sẽ giúp cho các bạn học sinh, sinh viên sẽ thích thú với sách vở, tạo niềm vui
-                            trong việc học ở trường và ở nhà. Vở học sinh &#8211; vở kẻ ngang Nhật Đông với chất lượng
+                            trong việc học ở trường và ở nhà. Vở học sinh &#8211; vở kẻ ngang Thuần Việt với chất lượng
                             giấy tốt nhất giúp người dùng khi viết chữ một cách dễ dàng hơn, phù hợp hơn với mọi loại
                             mực và bút.</p>
                         <h3><span class="ez-toc-section"
                                   id="Nhat_Dong_huong_dan_cach_chon_mua_vo_ke_ngang_tot"></span><span
-                                style="font-size: 18pt; color: #008000;">Nhật Đông hướng dẫn cách chọn mua vở kẻ ngang
+                                style="font-size: 18pt; color: #008000;">Thuần Việt hướng dẫn cách chọn mua vở kẻ ngang
                                 tốt</span><span class="ez-toc-section-end"></span></h3>
                         <p>=&gt; Ngoài việc quan tâm về chất lượng vở học sinh hay vở kẻ ngang các loại ra thì quý anh
                             chị người dùng cũng cần nên quan tâm đến mục đích sử dụng để tìm chọn mua vở kẻ ngang sao
-                            cho phù hợp. Và những thông tin về tiêu chí mua vở kẻ ngang do Nhật Đông cung cấp dưới đây
+                            cho phù hợp. Và những thông tin về tiêu chí mua vở kẻ ngang do Thuần Việt cung cấp dưới đây
                             sẽ giúp cho quý bạn có được lựa chọn tốt nhất.</p>
                         <div id="attachment_1533" style="width: 510px" class="wp-caption aligncenter"><img
                                 aria-describedby="caption-attachment-1533" class="wp-image-1533 size-full"
@@ -177,7 +177,7 @@
                                     srcset="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn3.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn3-300x225.jpg 300w"
                                     sizes="(max-width: 500px) 100vw, 500px" /></noscript>
                             <p id="caption-attachment-1533" class="wp-caption-text"><span
-                                    style="color: #3366ff;"><em>Nhật Đông nhận thiết kế, in vở kẻ ngang theo yêu
+                                    style="color: #3366ff;"><em>Thuần Việt nhận thiết kế, in vở kẻ ngang theo yêu
                                         cầu</em></span></p>
                         </div>
                         <h4><span class="ez-toc-section" id="1_Tieu_chi_ve_chat_luong_vo_ke_ngang"></span><span
@@ -225,7 +225,7 @@
                                     srcset="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn4.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn4-300x225.jpg 300w"
                                     sizes="(max-width: 500px) 100vw, 500px" /></noscript>
                             <p id="caption-attachment-1535" class="wp-caption-text"><span
-                                    style="color: #3366ff;"><em>Kiểu vở kẻ ngang Nhật Đông 100 trang</em></span></p>
+                                    style="color: #3366ff;"><em>Kiểu vở kẻ ngang Thuần Việt 100 trang</em></span></p>
                         </div>
                         <h4><span class="ez-toc-section" id="2_Chon_giay_vo_ke_ngang_theo_muc_dich_su_dung"></span><span
                                 style="font-size: 14pt;">2. Chọn giấy vở kẻ ngang theo mục đích sử dụng:</span><span
@@ -251,26 +251,26 @@
                                     srcset="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn6.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn6-300x225.jpg 300w"
                                     sizes="(max-width: 500px) 100vw, 500px" /></noscript>
                             <p id="caption-attachment-1536" class="wp-caption-text"><span
-                                    style="color: #3366ff;"><em>Mẫu vở kẻ ngang 120 trang do Nhật Đông thiết
+                                    style="color: #3366ff;"><em>Mẫu vở kẻ ngang 120 trang do Thuần Việt thiết
                                         kế</em></span></p>
                         </div>
                         <h5><span class="ez-toc-section" id="Nhung_loai_vo_ke_ngang_do_Nhat_Dong_cung_cap"></span><span
-                                style="font-size: 18pt; color: #ff0000;">Những loại vở kẻ ngang do Nhật Đông cung
+                                style="font-size: 18pt; color: #ff0000;">Những loại vở kẻ ngang do Thuần Việt cung
                                 cấp:</span><span class="ez-toc-section-end"></span></h5>
-                        <p>=&gt; Với những tiêu chí chọn vở kẻ ngang mà đơn vị Nhật Đông vừa đề cập ở trên, Nhật Đông
-                            cũng xin giới thiệu đến tất cả các bạn học sinh, sinh viên các mẫu vở kẻ ngang do Nhật Đông
+                        <p>=&gt; Với những tiêu chí chọn vở kẻ ngang mà đơn vị Thuần Việt vừa đề cập ở trên, Thuần Việt
+                            cũng xin giới thiệu đến tất cả các bạn học sinh, sinh viên các mẫu vở kẻ ngang do Thuần Việt
                             cung cấp ra thị trường được rất nhiều người đánh giá cao và ưa chuộng trong thời gian qua.
                             Vở kẻ ngang vừa chất lượng cao đạt được các yêu cầu về tiêu chuẩn cũng như về giá cả, cùng
                             tham khảo nhé!</p>
                         <p><img class="aligncenter wp-image-1547 size-full"
                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E"
-                                alt="vở kẻ ngang nhật đông" width="500" height="375"
+                                alt="vở kẻ ngang Thuần Việt" width="500" height="375"
                                 data-lazy-srcset="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn16.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn16-300x225.jpg 300w"
                                 data-lazy-sizes="(max-width: 500px) 100vw, 500px"
                                 data-lazy-src="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn16.jpg" /><noscript><img
                                 class="aligncenter wp-image-1547 size-full"
                                 src="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn16.jpg"
-                                alt="vở kẻ ngang nhật đông" width="500" height="375"
+                                alt="vở kẻ ngang Thuần Việt" width="500" height="375"
                                 srcset="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn16.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn16-300x225.jpg 300w"
                                 sizes="(max-width: 500px) 100vw, 500px" /></noscript></p>
                         <p><img class="aligncenter wp-image-1545 size-full"
@@ -319,14 +319,14 @@
                                 sizes="(max-width: 500px) 100vw, 500px" /></noscript></p>
                         <h5><span class="ez-toc-section"
                                   id="Vo_ke_ngang_Nhat_Dong_luon_dong_hanh_tien_buoc_toi_tuong_lai"></span><span
-                                style="font-size: 18pt; color: #339966;">Vở kẻ ngang Nhật Đông luôn đồng hành tiến bước
+                                style="font-size: 18pt; color: #339966;">Vở kẻ ngang Thuần Việt luôn đồng hành tiến bước
                                 tới tương lai</span><span class="ez-toc-section-end"></span></h5>
-                        <p>Doanh nghiệp Nhật Đông được biết đến là 1 trong những nhà máy sản xuất vở học sinh &#8211; vở
+                        <p>Doanh nghiệp Thuần Việt được biết đến là 1 trong những nhà máy sản xuất vở học sinh &#8211; vở
                             kẻ ngang giá rẻ, đạt chất lượng cao. Chúng tôi đã và đang là một trong những đối tác thiết
                             kế và in vở theo yêu cầu cho hầu hết các trường tiểu học, trung học, đại học, cao đẳng,
                             trung tâm ngoại ngữ,..…trên địa bàn TPHCM cùng các tỉnh thành lân cận khác.</p>
-                        <p>Vở học sinh &#8211; vở kẻ ngang Nhật Đông luôn đồng hành tới trường cùng các bạn học sinh,
-                            sinh viên trên mọi miền tổ quốc, Nhật Đông luôn tự hào là một trong những thương hiệu vở học
+                        <p>Vở học sinh &#8211; vở kẻ ngang Thuần Việt luôn đồng hành tới trường cùng các bạn học sinh,
+                            sinh viên trên mọi miền tổ quốc, Thuần Việt luôn tự hào là một trong những thương hiệu vở học
                             sinh được nhiều người tiêu dùng biết đến cũng như bình chọn là Hàng Việt Nam chất lượng cao
                             trong nhiều năm liền.</p>
                         <div id="attachment_1540" style="width: 510px" class="wp-caption aligncenter"><img
@@ -342,14 +342,14 @@
                                     srcset="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn11.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn11-300x296.jpg 300w"
                                     sizes="(max-width: 500px) 100vw, 500px" /></noscript>
                             <p id="caption-attachment-1540" class="wp-caption-text"><span
-                                    style="color: #3366ff;"><em>Nhật Đông nhận thiết kế, in bìa vở kẻ ngang theo yêu cầu
+                                    style="color: #3366ff;"><em>Thuần Việt nhận thiết kế, in bìa vở kẻ ngang theo yêu cầu
                                         nhanh chóng</em></span></p>
                         </div>
-                        <p>Không chỉ dừng lại ở đó, vở học sinh &#8211; vở kẻ ngang Nhật Đông còn luôn học hỏi, cải tiến
+                        <p>Không chỉ dừng lại ở đó, vở học sinh &#8211; vở kẻ ngang Thuần Việt còn luôn học hỏi, cải tiến
                             chất lượng để đem đến cho tất cả quý anh chị người dùng những cuốn vở kẻ ngang chất lượng
                             cao, đáp ứng mọi nhu cầu sử dụng của mọi người.</p>
-                        <p>Để đáp ứng được mọi nhu cầu sử dụng vở học sinh &#8211; vở kẻ ngang Nhật Đông đang ngày càng
-                            nhiều, càng tăng đột biến trong năm vừa qua cho nên Nhật Đông luôn chú trọng trong việc đầu
+                        <p>Để đáp ứng được mọi nhu cầu sử dụng vở học sinh &#8211; vở kẻ ngang Thuần Việt đang ngày càng
+                            nhiều, càng tăng đột biến trong năm vừa qua cho nên Thuần Việt luôn chú trọng trong việc đầu
                             tư hệ thống trang thiết bị dây chuyền sản xuất vở học sinh &#8211; vở kẻ nang vô cùng hiện
                             đại cùng với quy trình làm việc khá khép kín để giảm tối đa giá thành.</p>
                         <div id="attachment_1539" style="width: 510px" class="wp-caption aligncenter"><img
@@ -365,7 +365,7 @@
                                     srcset="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn9.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn9-300x270.jpg 300w"
                                     sizes="(max-width: 500px) 100vw, 500px" /></noscript>
                             <p id="caption-attachment-1539" class="wp-caption-text"><span
-                                    style="color: #3366ff;"><em>Giấy vở kẻ ngang tại Nhật Đông được sử dụng chất liệu
+                                    style="color: #3366ff;"><em>Giấy vở kẻ ngang tại Thuần Việt được sử dụng chất liệu
                                         cao cấp</em></span></p>
                         </div>
                         <h6><span class="ez-toc-section" id="Ly_do_nen_su_dung_vo_ke_ngang_Nhat_Dong"></span><span
@@ -373,13 +373,13 @@
                                 Đông?</span><span class="ez-toc-section-end"></span></h6>
                         <p>Hiện tại đã có rất nhiều công ty sản xuất và cung cấp vở học sinh nói chung và vở kẻ ngang
                             nói riêng trên thị trường. Nhưng với độ uy tín cũng như niềm tin của khách hàng, DN Tập vở
-                            Nhật Đông luôn tự hào là một trong những đơn vị luôn mang đến cho quý anh chị người dùng
+                            Thuần Việt luôn tự hào là một trong những đơn vị luôn mang đến cho quý anh chị người dùng
                             những cuốn vở học sinh &#8211; vở kẻ ngang cao cấp, chất lượng mà giá thành cạnh tranh nhất.
                         </p>
                         <p>Sau gần 20 năm hoạt động trong lĩnh vực sản xuất &amp; phân phối vở học sinh &#8211; vở kẻ
-                            ngang các loại thì hiện tại Nhật Đông đã khẳng định được chỗ đứng của mình trên thị trường
+                            ngang các loại thì hiện tại Thuần Việt đã khẳng định được chỗ đứng của mình trên thị trường
                             Miền Nam, Miền Tây nước ta. Qua đó, khi sử dụng vở học sinh hay vở kẻ ngang mang thương hiệu
-                            Nhật Đông thì quý bạn có thể hoàn toàn yên tâm về:</p>
+                            Thuần Việt thì quý bạn có thể hoàn toàn yên tâm về:</p>
                         <div id="attachment_1538" style="width: 510px" class="wp-caption aligncenter"><img
                                 aria-describedby="caption-attachment-1538" class="wp-image-1538 size-full"
                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E"
@@ -393,12 +393,12 @@
                                     srcset="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn8.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn8-300x225.jpg 300w"
                                     sizes="(max-width: 500px) 100vw, 500px" /></noscript>
                             <p id="caption-attachment-1538" class="wp-caption-text"><span
-                                    style="color: #3366ff;"><em>Nhật Đông nhận thiết kế bìa vở kẻ ngang theo yêu cầu của
+                                    style="color: #3366ff;"><em>Thuần Việt nhận thiết kế bìa vở kẻ ngang theo yêu cầu của
                                         khách</em></span></p>
                         </div>
-                        <p>* Chất liệu vở học sinh &#8211; vở kẻ ngang Nhật Đông tự nhiên, độ sáng vừa phải, đạt chuẩn
+                        <p>* Chất liệu vở học sinh &#8211; vở kẻ ngang Thuần Việt tự nhiên, độ sáng vừa phải, đạt chuẩn
                             quốc tế.</p>
-                        <p>* Giá vở học sinh &#8211; vở kẻ ngang Nhật Đông phải chăng, phân khúc rộng, phù hợp với nhu
+                        <p>* Giá vở học sinh &#8211; vở kẻ ngang Thuần Việt phải chăng, phân khúc rộng, phù hợp với nhu
                             cầu sử dụng của nhiều lứa tuổi.</p>
                         <p>* Thiết kế vở học sinh &#8211; vở kẻ ngang độc đáo, màu sắc bắt mắt</p>
                         <p>* Dễ dàng tìm kiếm và mua sản phẩm vở học sinh &#8211; vở kẻ ngang trên mọi hình thức.</p>
@@ -415,11 +415,11 @@
                                     srcset="https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn7.jpg 500w, https://tapvohocsinh.com/wp-content/uploads/2022/04/vkn7-300x225.jpg 300w"
                                     sizes="(max-width: 500px) 100vw, 500px" /></noscript>
                             <p id="caption-attachment-1537" class="wp-caption-text"><span
-                                    style="color: #3366ff;"><em>Nhật Đông &#8211; xưởng sản xuất và phân phối vở kẻ
+                                    style="color: #3366ff;"><em>Thuần Việt &#8211; xưởng sản xuất và phân phối vở kẻ
                                         ngang đang tin cậy</em></span></p>
                         </div>
                         <p>=&gt; Hy vọng qua bài chia sẻ này nếu như quý bạn có nhu cầu mua vở học sinh &#8211; vở kẻ
-                            ngang các loại hay có thắc mắc gì hãy liên hệ cho NHẬT ĐÔNG thông qua số phone: <span
+                            ngang các loại hay có thắc mắc gì hãy liên hệ cho Thuần Việt thông qua số phone: <span
                                 style="color: #ff0000;"><strong>0918 069 020 &#8211; (0274)3784 757 &#8211; 0937 317
                                     355</strong></span> để được hỗ trợ nhanh nhất có thể nhé!</p>
                         <blockquote>
@@ -429,7 +429,7 @@
                             <li><a title="Kích thước vở 96 trang"
                                    href="https://tapvohocsinh.com/tieu-chuan-kich-thuoc-vo-hoc-sinh-96-trang-vo-ke-ngang.html"
                                    target="_blank" rel="noopener"><strong>Kích thước vở 96 trang</strong></a></li>
-                            <li><a title="Kích thước vở học sinh tại Nhật Đông"
+                            <li><a title="Kích thước vở học sinh tại Thuần Việt"
                                    href="https://tapvohocsinh.com/kich-thuoc-vo-hoc-sinh-bao-nhieu.html"
                                    target="_blank" rel="noopener"><strong>Kích thước vở học sinh tại Nhật
                                         Đông</strong></a></li>
@@ -491,7 +491,7 @@
                     <div class="textwidget">
                         <p><span style="font-size: 18px;"><span style="color: #ff0000;">KHÔNG BÁN LẺ TẬP HỌC
                                     SINH</span></span></p>
-                        <p><span style="color: #0000ff;"><span style="font-size: 14px;">DNTN Nhật Đông chúng tôi là đơn
+                        <p><span style="color: #0000ff;"><span style="font-size: 14px;">DNTN Thuần Việt chúng tôi là đơn
                                     vị sản xuất, chỉ in ấn tập giá sỉ số lượng từ 1000 cuốn trở lên, không bán lẻ.<br />
                                     Quý khách mua tập vở lẻ xin liên hệ với shop khác ạ. Cảm ơn quý khách khách đã đọc
                                     lưu ý này!</span></span></p>

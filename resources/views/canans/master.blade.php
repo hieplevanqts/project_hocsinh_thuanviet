@@ -478,7 +478,7 @@
 
         .header .header-inner .nav,
         .header .header-inner .nav ul li:hover>ul {
-            background-color: #1e73be;
+            background-color: #880000;
         }
 
         .header .header-inner .nav ul li a:hover,
@@ -488,7 +488,7 @@
         }
 
         .header .header-inner .nav {
-            border-color: #1e73be;
+            border-color: #880000;
         }
 
         .header .header-inner .nav ul li,
@@ -538,13 +538,13 @@
         }
 
         .wrap_one h1 {
-            color: #1e73be;
+            color: #880000;
             font-size: 28px;
         }
 
         h2.section_title {
             font-family: 'Roboto', sans-serif;
-            color: #1e73be
+            color: #880000
         }
 
         a,
@@ -564,7 +564,7 @@
         }
 
         .cols-3 h5 {
-            color: #1e73be;
+            color: #880000;
             font-size: 26px;
         }
 
@@ -573,11 +573,11 @@
         }
 
         .copyright-txt {
-            color: #000000
+            color: #fff
         }
 
         .design-by {
-            color: #000000
+            color: #fff
         }
 
         .header {
@@ -585,7 +585,7 @@
         }
 
         .social-icons a {
-            color: #1e73be;
+            color: #880000;
         }
 
         #wrapOne {
@@ -597,7 +597,7 @@
         }
 
         .social-icons a {
-            color: #1e73be;
+            color: #880000;
         }
 
         .filter-title h3 span {
@@ -615,12 +615,12 @@
         .header_row .column-1 i,
         .header_row .column-1 span.hederphone a,
         span.hederphone {
-            color: #1e73be;
+            color: #880000;
         }
 
         .header_row .column-1 span.hederemailid a,
         .header_row .column-1 span.hederemailid {
-            color: #1e73be;
+            color: #880000;
         }
 
         .header .header-inner .header_info .apointment a,
@@ -665,7 +665,7 @@
         }
 
         h3.widget-title {
-            background-color: #1e73be;
+            background-color: #880000;
             color: #ffffff;
         }
 
@@ -692,7 +692,7 @@
         }
 
         .copyright-wrapper {
-            background-color: #1e73be;
+            background-color: #880000;
         }
 
         .photobooth .gallery ul li:hover {
@@ -853,7 +853,7 @@
         }
 
         .toggle a {
-            background-color: #1e73be;
+            background-color: #880000;
         }
 
         #testimonials ul li .tm_description {
@@ -889,7 +889,7 @@
         }
 
         h1 {
-            color: #1e73be;
+            color: #880000;
         }
 
         h2 {

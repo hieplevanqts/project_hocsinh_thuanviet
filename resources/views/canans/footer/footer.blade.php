@@ -44,7 +44,7 @@
         <div id="text-5" class="cols-3 widget-column-3">
             <h5>Liên hệ</h5>
             <div class="textwidget">
-                <p><strong>DNTN TMDV NHẬT ĐÔNG</strong><br />
+                <p><strong>Công Ty TNHH Thuần Việt</strong><br />
                     <strong>Địa chỉ:</strong> Tân Bình, TP HCM<br />
                     <strong>Xưởng sản xuất:</strong> Tân Bình, TP HCM<br />
                     <strong>Mobile: </strong>0336.888.648 (Mr Hiệp) – 039.511.6390 (Ms Hiêp)<br />

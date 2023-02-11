@@ -47,7 +47,7 @@
                 <ul id="menu-menu2" class="menu">
                     <li
                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-186">
-                        <a href="https://tapvohocsinh.com" aria-current="page">Trang chủ</a></li>
+                        <a href="{{asset('/')}}" aria-current="page">Trang chủ</a></li>
                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-188"><a
                             href="{{asset('gioi-thieu')}}">Giới thiệu</a>
                     </li>
@@ -124,8 +124,7 @@
 {{--                                    học sinh giá sỉ</a></li>--}}
 {{--                        </ul>--}}
                     </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a
-                            href="https://tapvohocsinh.com/lien-he">Liên hệ</a></li>
+
                 </ul>
             </div>
             <div class="clear"></div>
